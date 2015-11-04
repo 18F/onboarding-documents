@@ -9,42 +9,45 @@ out an [e-QIP](https://www.opm.gov/investigations/e-qip-application/), or detail
 [GSA Employee Benefits and
 Information](#gsa-employee-benefits-and-information)
 
-[GSA Employee Information](#gsa-employee-information)
+<a><a id="gsa-employee-benefits-and-information">GSA Employee Benefits and
+Information</a>
 
-[SF-144 - Statement of Prior Federal
-Service](#sf-144-statement-of-prior-federal-service)
+<a><a id="gsa-onboarding-document">GSA Onboarding Document</a>
 
-[I-9 - Employment Eligibility
-Verification](#i-9-employment-eligibility-verification)
+<a><a id="sf-144-statement-of-prior-federal-service">SF-144 - Statement of Prior Federal
+Service]</a>
 
-[SF-256 - Self-Identification of
-Disability](#sf-256-self-identification-of-disability)
+<a><a id="i-9-employment-eligibility-verification">I-9 - Employment Eligibility
+Verification]</a>
 
-[SF-181 - Ethnicity and Race
-Identification](#sf-181-ethnicity-and-race-identification)
+<a><a id="sf-256-self-identification-of-disability">SF-256 - Self-Identification of
+Disability]</a>
 
-[SF-1199 - Direct Deposit Sign-Up
-Form](#sf-1199-direct-deposit-sign-up-form)
+<a><a id="sf-181-ethnicity-and-race-identification">SF-181 - Ethnicity and Race
+Identification]</a>
 
-[W-4 - Federal Income Tax
-Withholding](#w-4-federal-income-tax-withholding)
+<a><a id="sf-1199-direct-deposit-sign-up-form">SF-1199 - Direct Deposit Sign-Up
+Form</a>
 
-[State Tax Withholding Forms](#state-tax-withholding-forms)
+<a><a id="w-4-federal-income-tax-withholding">W-4 - Federal Income Tax
+Withholding</a>
 
-[RSIF - Reserve Status Identification
-Form](#rsif-reserve-status-identification-form)
+<a><a id="state-tax-withholding-forms">State Tax Withholding Forms</a>
 
-[ECI - Emergency Contact
-Information](#eci-emergency-contact-information)
+<a><a id="rsif-reserve-status-identification-form">RSIF - Reserve Status Identification
+Form</a>
 
-[SF-2809 - Health Benefits Election
-Form](#sf-2809-health-benefits-election-form)
+<a><a id="eci-emergency-contact-information">ECI - Emergency Contact
+Information<a/>
 
-[SF-2817 - Life Insurance Election
-Form](#sf-2817-life-insurance-election-form)
+<a><a id="sf-2809-health-benefits-election-form">SF-2809 - Health Benefits Election
+Form</a>
 
-[TSP-1 - Thrift Savings Plan Election
-Form](#tsp-1-thrift-savings-plan-election-form)
+<a><a id="sf-2817-life-insurance-election-form">SF-2817 - Life Insurance Election
+Form</a>
+
+<a><a id="tsp-1-thrift-savings-plan-election-form">TSP-1 - Thrift Savings Plan Election
+Form</a>
 
 This guide walks you through the forms you’ll receive from GSA. If you
 need to download and print a form individually, click the standard form
@@ -61,7 +64,7 @@ them. When you finish, email the forms to
 <table>
   <tbody>
     <tr>
-      <td>**GSA Employee Benefits and Information**
+      <td><a id="gsa-employee-benefits-and-information">GSA Employee Benefits and Information</a> 
 
         <br>
         <br>
@@ -93,7 +96,7 @@ them. When you finish, email the forms to
         [Thrift savings plan](https://www.tsp.gov/index.shtml)</td>
     </tr>
     <tr>
-      <td>  **GSA Onboarding Documen **
+      <td>  **GSA Onboarding Document**
 
         <br>
         <br>
