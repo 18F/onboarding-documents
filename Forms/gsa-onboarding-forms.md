@@ -9,45 +9,35 @@ out an [e-QIP](https://www.opm.gov/investigations/e-qip-application/), or detail
 [GSA Employee Benefits and
 Information](#gsa-employee-benefits-and-information)
 
-<a><a id="gsa-employee-benefits-and-information">GSA Employee Benefits and
-Information</a>
+GSA Employee Benefits and
+Information
 
-<a><a id="gsa-onboarding-document">GSA Onboarding Document</a>
+GSA Onboarding Document
 
-<a><a id="sf-144-statement-of-prior-federal-service">SF-144 - Statement of Prior Federal
-Service]</a>
+SF-144 - Statement of Prior Federal
+Service]
 
-<a><a id="i-9-employment-eligibility-verification">I-9 - Employment Eligibility
-Verification]</a>
+I-9 - Employment Eligibility Verification
 
-<a><a id="sf-256-self-identification-of-disability">SF-256 - Self-Identification of
-Disability]</a>
+SF-256 - Self-Identification of Disability
 
-<a><a id="sf-181-ethnicity-and-race-identification">SF-181 - Ethnicity and Race
-Identification]</a>
+SF-181 - Ethnicity and Race Identification]
 
-<a><a id="sf-1199-direct-deposit-sign-up-form">SF-1199 - Direct Deposit Sign-Up
-Form</a>
+SF-1199 - Direct Deposit Sign-Up Form
 
-<a><a id="w-4-federal-income-tax-withholding">W-4 - Federal Income Tax
-Withholding</a>
+W-4 - Federal Income Tax Withholding
 
-<a><a id="state-tax-withholding-forms">State Tax Withholding Forms</a>
+State Tax Withholding Forms
 
-<a><a id="rsif-reserve-status-identification-form">RSIF - Reserve Status Identification
-Form</a>
+RSIF - Reserve Status Identification Form
 
-<a><a id="eci-emergency-contact-information">ECI - Emergency Contact
-Information<a/>
+ECI - Emergency Contact Information
 
-<a><a id="sf-2809-health-benefits-election-form">SF-2809 - Health Benefits Election
-Form</a>
+SF-2809 - Health Benefits Election Form
 
-<a><a id="sf-2817-life-insurance-election-form">SF-2817 - Life Insurance Election
-Form</a>
+SF-2817 - Life Insurance Election Form
 
-<a><a id="tsp-1-thrift-savings-plan-election-form">TSP-1 - Thrift Savings Plan Election
-Form</a>
+TSP-1 - Thrift Savings Plan Election Form
 
 This guide walks you through the forms you’ll receive from GSA. If you
 need to download and print a form individually, click the standard form
