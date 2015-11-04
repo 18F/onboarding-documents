@@ -6,38 +6,35 @@ breath! You’ll get through this. The first big round of forms comes
 after you receive your tentative offer, but before you’re asked to fill
 out an [e-QIP](https://www.opm.gov/investigations/e-qip-application/), or detailed background check.
 
-[GSA Employee Benefits and
-Information](#gsa-employee-benefits-and-information)
+[GSA Employee Benefits and Information](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-employee-benefits-and-information)
 
-GSA Employee Benefits and
-Information
+[GSA Onboarding Document](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-onboarding-document)
 
-GSA Onboarding Document
+[SF-144 - Statement of Prior Federal Service](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-144---statement-of-prior-federal-service)
 
-SF-144 - Statement of Prior Federal
-Service]
+[I-9 - Employment Eligibility Verification](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#i-9---employment-eligibility-verification)
 
-I-9 - Employment Eligibility Verification
+[SF-256 - Self-Identification of Disability](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-256---self-identification-of-disability)
 
-SF-256 - Self-Identification of Disability
+[SF-181 - Ethnicity and Race Identification](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-181---ethnicity-and-race-identification)
 
-SF-181 - Ethnicity and Race Identification]
+[SF-1199 - Direct Deposit Sign-Up Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-1199---direct-deposit-sign-up-form)
 
-SF-1199 - Direct Deposit Sign-Up Form
+[W-4 - Federal Income Tax Withholding](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#w-4---federal-income-tax-withholding)
 
-W-4 - Federal Income Tax Withholding
+[State Tax Withholding Forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#state-tax-withholding-forms)
 
-State Tax Withholding Forms
+[RSIF - Reserve Status Identification Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#rsif---reserve-status-identification-form)
 
-RSIF - Reserve Status Identification Form
+[ECI - Emergency Contact Information](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#eci---emergency-contact-information)
 
-ECI - Emergency Contact Information
+[SF-2809 - Health Benefits Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form)
 
-SF-2809 - Health Benefits Election Form
+[SF-2817 - Life Insurance Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form)
 
-SF-2817 - Life Insurance Election Form
+[TSP-1 - Thrift Savings Plan Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form)
 
-TSP-1 - Thrift Savings Plan Election Form
+[Beneficiary Forms](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part-2-beneficiary-forms)
 
 This guide walks you through the forms you’ll receive from GSA. If you
 need to download and print a form individually, click the standard form
@@ -85,7 +82,7 @@ This form is used to credit you with any prior federal service. This can affect 
 
 This form is used to verify your identity and eligibility to work in the United States. You’ll need to turn this form in with proper identification. See the included list of [accepted documents](http://www.uscis.gov/i-9-central/acceptable-documents) for details.
     
-### [SF-256](https://www.opm.gov/forms/pdf_fill/sf256.pdf) - Self-Identification of Disability**
+### [SF-256](https://www.opm.gov/forms/pdf_fill/sf256.pdf) - Self-Identification of Disability
 
 This form asks you disclose a disability, if you choose to. As noted in the Purpose section, self-identification is voluntary, and the information will be used for statistical purposes only.
       
