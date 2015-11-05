@@ -115,6 +115,33 @@ Work:  202-969-7079  Cell:    202-805-4922
 
 This document serves as a list of tasks for you to complete with corresponding timelines. Some of the items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how 18F works. 
 
+### Before your first day
+
+## Forms to fill out
+
+<table>
+  <thead> <!-- This is header tag -->
+    <tr> <!-- This is a row tag -->
+      <th scope="col"></th> 
+      <!-- scope ="col" is used to identitfy header columns and will automagically bold and center the text -->
+      <th scope="col">&#10003;</th>
+      <th scope="col">Mandatory forms to complete</th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>GSA Employee Benefits and Information</td>
+    <td>[info] | Email to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov)</td>
+  </tr>
+  <tr>
+    <td scope="row"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 
