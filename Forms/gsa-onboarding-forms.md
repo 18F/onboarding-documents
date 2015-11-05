@@ -180,7 +180,7 @@ As a federal employee, you’ll automatically be enrolled in Basic life insuranc
       
 ### [TSP-1](https://www.tsp.gov/PDF/formspubs/tsp-1.pdf) - Thrift Savings Plan Election Form
 
-Our [Thrift Savings Plan](https://www.tsp.gov/planparticipation/about/purposeAndHistory.shtml) (TSP) is similar to a 401k retirement plan. Each pay period, GSA can invest part of your basic salary into your TSP account. By default, you are automatically enrolled in this plan at 3 percent, but you can use this form to change the amount you contribute each paycheck or opt out of the plan.
+Our [Thrift Savings Plan](https://www.tsp.gov/planparticipation/about/purposeAndHistory.shtml) (TSP) is similar to a 401k retirement plan. Each pay period, GSA can invest part of your basic salary into your TSP account. By default, you are automatically enrolled in this plan at 3 percent, but you can use this form to change the amount you contribute each paycheck or opt out of the plan. Any selections you make start getting reflected in your *second* paycheck.
 
 Part 2: Beneficiary forms
 -------------------------
