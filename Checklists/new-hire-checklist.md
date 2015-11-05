@@ -11,28 +11,17 @@ As part of the new employee onboarding process, we created this checklist to ass
 ### Key websites
 
 <table>
-		<td>
-		18F Handbook
-		</td>
-		<td>
-		https://18f.handbook.gov
-		</td>
+	<tr>
+		<td>18F Handbook</td>
+		<td>https://18f.handbook.gov</td>
 	</tr>
 	<tr>
-		<td>
-		Leave and Earnings Statement
-		</td>
-		<td>
-		https://www.employeeexpress.gov
-		</td>
+		<td>Leave and Earnings Statement</td>
+		<td>https://www.employeeexpress.gov</td>
 	</tr>
 		<tr>
-		<td>
-		GSA Insite
-		</td>
-		<td>
-		https://insite.gsa.gov
-		</td>
+		<td>GSA Insite</td>
+		<td>https://insite.gsa.gov</td>
 	</tr>
 </table>
 
@@ -40,52 +29,29 @@ As part of the new employee onboarding process, we created this checklist to ass
 
 <table>
 	<tr>
-		<td>
-		Health and Life Insurance
-		</td>
-		<td>
-		https://www.opm.gov/insure
+		<td>Health and Life Insurance</td>
+		<td>https://www.opm.gov/insure</td>
+	</tr>
+	<tr>
+		<td>Retirement Planning</td>
+		<td>https://www.opm.gov/retirement-services/</td>
+	</tr>
+	<tr>
+		<td>Thrift Savings Plan (TSP)</td>
+		<td>http://www.tsp.gov/</td>
+	</tr>
+	<tr>
+		<td>Flexible Spending Account</td>
+		<td>http://www.fsafeds.gov</td>
+	</tr>
+	<tr>
+		<td>Dental and Vision Insurance</td>
+		<td>http://www.benefeds.com
 		</td>
 	</tr>
 	<tr>
-		<td>
-		Retirement Planning
-		</td>
-		<td>
-		https://www.opm.gov/retirement-services/
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Thrift Savings Plan (TSP)
-		</td>
-		<td>
-		http://www.tsp.gov/
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Flexible Spending Account 		
-		</td>
-		<td>
-		http://www.fsafeds.gov
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Dental and Vision Insurance
-		</td>
-		<td>
-		http://www.benefeds.com
-		</td>
-	</tr>
-	<tr>
-		<td>
-		Long Term Care Insurance
-		</td>
-		<td>
-		http://www.ltcfeds.com
-		</td>
+		<td>Long Term Care Insurance</td>
+		<td>http://www.ltcfeds.com</td>
 	</tr>
 </table>
 
@@ -118,7 +84,6 @@ This document serves as a list of tasks for you to complete with corresponding t
 ### Before your first day
 
 ## Forms to fill out
-
 
 <table>
   <thead> <!-- This is header tag -->
@@ -205,7 +170,7 @@ This document serves as a list of tasks for you to complete with corresponding t
       <th scope="col"></th> 
       <!-- scope ="col" is used to identitfy header columns and will automagically bold and center the text -->
       <th scope="col">&#10003;</th>
-      <th scope="col">Time Flexible Forms <br> <i>You have up to 60 days after your start date to complete these.</i></th>
+      <th scope="col">Time-flexible forms <br> <i>You have up to 60 days after your start date to complete these.</i></th>
       <th scope="col">Information and/or contacts</th>
     </tr>
   </thead>
@@ -217,17 +182,134 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form">Info</a> | Email to XXX</a></td>
   </tr>
   <tr>
-    <td scope="row">1</td> 
+    <td scope="row">2</td> 
     <!-- Similiarly scope="row" will bold and center text -->
     <td>&#9744;</td>
     <td>SF-2817 - Life Insurance Election Form</td>
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | Email to XXX</a></td>
   </tr>
   <tr>
-    <td scope="row">1</td> 
+    <td scope="row">3</td> 
     <!-- Similiarly scope="row" will bold and center text -->
     <td>&#9744;</td>
     <td>TSP-1 - Thrift Savings Plan Election Form</td>
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | Email to XXX</td>
   </tr>
  </table>
+
+ <table>
+  <thead> <!-- This is header tag -->
+    <tr> <!-- This is a row tag -->
+      <th scope="col"></th> 
+      <!-- scope ="col" is used to identitfy header columns and will automagically bold and center the text -->
+      <th scope="col">&#10003;</th>
+      <th scope="col">Beneficiary forms<br><i>These are not time sensitive and can be completed at your convenience.</i></th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>SF-1152 - Designation of Beneficiary (Unpaid Compensation)</td>
+    <td>Info | Email to XXX</a></td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>SF-2817 - Life Insurance Election Form</td>
+    <td>Info | Email to XXX</a></td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>TSP-1 - Thrift Savings Plan Election Form</td>
+    <td>Info | Email to XXX</td>
+  </tr>
+ </table>
+
+### Week before your first day
+
+<table>
+  <thead> <!-- This is header tag -->
+    <tr> <!-- This is a row tag -->
+      <th scope="col"></th> 
+      <!-- scope ="col" is used to identitfy header columns and will automagically bold and center the text -->
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>Complete Background Investigation (e-QIP) provided by GSA HR</td>
+    <td><a href="http://www.opm.gov/e-qip/">E-Qip</a></td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>Send bio (3-5 lines), headshot, and preferred gender pronoun to Team Talent.</td>
+    <td>info | send to XXX</td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>Read up on GSA and 18F orientation.</td>
+    <td>Orientation and GSA overview</td>
+  </tr>
+   <tr>
+    <td scope="row">4</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>Receive an email from your buddy and your talent coordinator about your first week.</td>
+    <td></td>
+  </tr>
+ </table>
+
+
+DC: Day 1
+
+ <table>
+  <thead> <!-- This is header tag -->
+    <tr> <!-- This is a row tag -->
+      <th scope="col"></th> 
+      <!-- scope ="col" is used to identitfy header columns and will automagically bold and center the text -->
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td></td>
+    <td></td>
+  </tr>
+ </table>
+
+
+
+
+
+
