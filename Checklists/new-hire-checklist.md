@@ -199,3 +199,35 @@ This document serves as a list of tasks for you to complete with corresponding t
   </tr>
 </table>
 
+<table>
+  <thead> <!-- This is header tag -->
+    <tr> <!-- This is a row tag -->
+      <th scope="col"></th> 
+      <!-- scope ="col" is used to identitfy header columns and will automagically bold and center the text -->
+      <th scope="col">&#10003;</th>
+      <th scope="col">Time Flexible Forms <br> <i>You have up to 60 days after your start date to complete these.</i></th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>SF-2809 - Health Benefits Election Form</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form">Info</a> | Email to XXX</a></td>
+  </tr>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>SF-2817 - Life Insurance Election Form</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | Email to XXX</a></td>
+  </tr>
+  <tr>
+    <td scope="row">1</td> 
+    <!-- Similiarly scope="row" will bold and center text -->
+    <td>&#9744;</td>
+    <td>TSP-1 - Thrift Savings Plan Election Form</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | Email to XXX</td>
+  </tr>
+ </table>
