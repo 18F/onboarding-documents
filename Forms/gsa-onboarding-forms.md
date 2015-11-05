@@ -69,9 +69,9 @@ You can find details about benefits on the Office of Personnel Management (OPM) 
 
 ### GSA Onboarding Document
 
-This form is pretty self-explanatory, but you’ll want to fill it out *after* you’ve chosen healthcare and retirement plans (see [SF-2809 - Federal Employee Health Benefits Election Form]() and [TSP-1 - Thrift Savings Plan Election Form]()).
+This form is pretty self-explanatory, but you’ll want to fill it out *after* you’ve chosen healthcare and retirement plans (see [SF-2809 - Federal Employee Health Benefits Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and [TSP-1 - Thrift Savings Plan Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form)).
 
-        You can ignore the note about providing a college transcript.
+You can ignore the note about providing a college transcript. *Note: You 
 
 ### [SF-144](http://www.gsa.gov/portal/forms/download/115890) - Statement of Prior Federal Service
 
@@ -128,15 +128,23 @@ Depending on where you live, you may need to fill out a state tax withholding fo
 
 These states are exempt:
 
-> Alaska
-> Florida
-> Nevada
-> New Hampshire
-> South Dakota
-> Tennessee
-> Texas
-> Washington
-> Wyoming
+- Alaska
+
+- Florida
+
+- Nevada
+
+- New Hampshire
+
+- South Dakota
+
+- Tennessee
+
+- Texas
+
+- Washington
+
+- Wyoming
 
 If you work in DC but live elsewhere, you’ll need to complete a [D-4A - Certificate of Non-residence in DC](http://otr.cfo.dc.gov/node/970782).
       
@@ -152,10 +160,13 @@ Let HR know who to contact in the event of an emergency. (This form should be in
 
 You have 60 days to complete this form after your start date, but if you need coverage, it’s best to turn it in ahead of time. You need to make a few decisions before completing this:
 
-> Do you need coverage?
-> Do you have coverage now? Are you planning to keep it?
-> Who else in your family needs coverage?
-> Which plan do you want to enroll in?
+- Do you need coverage?
+
+- Do you have coverage now? Are you planning to keep it?
+
+- Who else in your family needs coverage?
+
+- Which plan do you want to enroll in?
 
 If you do need coverage, start by [comparing the plans](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/compare-plans/) in your area. Include Nationwide plans in your search. We are non-U.S. Postal Service Employees, and we’re paid on a biweekly basis.
 
