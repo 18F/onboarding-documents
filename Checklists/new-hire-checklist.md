@@ -168,7 +168,6 @@ This document serves as a list of tasks for you to complete with corresponding t
   <thead> 
     <tr> 
       <th scope="col"></th> 
-      
       <th scope="col">&#10003;</th>
       <th scope="col">Time-flexible forms <br> <i>You have up to 60 days after your start date to complete these.</i></th>
       <th scope="col">Information and/or contacts</th>
@@ -182,14 +181,12 @@ This document serves as a list of tasks for you to complete with corresponding t
   </tr>
   <tr>
     <td scope="row">2</td> 
-    
     <td>&#9744;</td>
     <td>SF-2817 - Life Insurance Election Form</td>
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | Email to XXX</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
-    
     <td>&#9744;</td>
     <td>TSP-1 - Thrift Savings Plan Election Form</td>
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | Email to XXX</td>
@@ -213,14 +210,12 @@ This document serves as a list of tasks for you to complete with corresponding t
   </tr>
   <tr>
     <td scope="row">2</td> 
-    
     <td>&#9744;</td>
     <td>SF-2817 - Life Insurance Election Form</td>
     <td>Info | Email to XXX</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
-    
     <td>&#9744;</td>
     <td>TSP-1 - Thrift Savings Plan Election Form</td>
     <td>Info | Email to XXX</td>
@@ -232,8 +227,7 @@ This document serves as a list of tasks for you to complete with corresponding t
 <table>
   <thead> 
     <tr> 
-      <th scope="col"></th> 
-      
+      <th scope="col"></th>
       <th scope="col">&#10003;</th>
       <th scope="col">Task</th>
       <th scope="col">Information and/or contacts</th>
@@ -248,21 +242,18 @@ This document serves as a list of tasks for you to complete with corresponding t
   </tr>
   <tr>
     <td scope="row">2</td> 
-    
     <td>&#9744;</td>
     <td>Send bio (3-5 lines), headshot, and preferred gender pronoun to Team Talent.</td>
     <td>info | send to XXX</td>
   </tr>
   <tr>
     <td scope="row">3</td> 
-    
     <td>&#9744;</td>
     <td>Read up on GSA and 18F orientation.</td>
     <td>Orientation and GSA overview</td>
   </tr>
    <tr>
     <td scope="row">4</td> 
-    
     <td>&#9744;</td>
     <td>Receive an email from your buddy and your talent coordinator about your first week.</td>
     <td></td>
@@ -283,21 +274,18 @@ DC: Day 1
   </thead>
   <tr>
     <td scope="row">1</td> 
-    
     <td>&#9744;</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
-    
     <td>&#9744;</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
-    
     <td>&#9744;</td>
     <td></td>
     <td></td>
