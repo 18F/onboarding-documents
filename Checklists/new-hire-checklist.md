@@ -206,19 +206,19 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>SF-1152 - Designation of Beneficiary (Unpaid Compensation)</td>
-    <td>Info | Email to XXX</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part-2-beneficiary-forms">Info</a> | Email to XXX</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>SF-2817 - Life Insurance Election Form</td>
-    <td>Info | Email to XXX</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | Email to XXX</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>TSP-1 - Thrift Savings Plan Election Form</td>
-    <td>Info | Email to XXX</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | Email to XXX</td>
   </tr>
  </table>
 
