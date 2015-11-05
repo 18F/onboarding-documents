@@ -134,16 +134,12 @@ This document serves as a list of tasks for you to complete with corresponding t
     <!-- Similiarly scope="row" will bold and center text -->
     <td>&#9744;</td>
     <td>GSA Employee Benefits and Information</td>
-    <td>[info] | Email to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov)</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-employee-benefits-and-information">Info</a>) | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
   </tr>
   <tr>
-    <td scope="row"></td>
-    <td></td>
-    <td></td>
+    <td scope="row">2</td>
+    <td>&#9744;</td>
+    <td>GSA Onboarding Document</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-onboarding-document">Info</a>) | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
   </tr>
 </table>
-
-
-
-
-
