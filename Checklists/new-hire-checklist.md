@@ -119,6 +119,7 @@ This document serves as a list of tasks for you to complete with corresponding t
 
 ## Forms to fill out
 
+
 <table>
   <thead> <!-- This is header tag -->
     <tr> <!-- This is a row tag -->
@@ -134,12 +135,67 @@ This document serves as a list of tasks for you to complete with corresponding t
     <!-- Similiarly scope="row" will bold and center text -->
     <td>&#9744;</td>
     <td>GSA Employee Benefits and Information</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-employee-benefits-and-information">Info</a>) | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-employee-benefits-and-information">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
   </tr>
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
     <td>GSA Onboarding Document</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-onboarding-document">Info</a>) | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-onboarding-document">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">3</td>
+    <td>&#9744;</td>
+    <td>SF-144 - Statement of Prior Federal Service</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-144---statement-of-prior-federal-service">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">4</td>
+    <td>&#9744;</td>
+    <td>I-9 - Employment Eligibility Verification</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#i-9---employment-eligibility-verification">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">5</td>
+    <td>&#9744;</td>
+    <td>SF-256 - Self-Identification of Disability</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-256---self-identification-of-disability">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">6</td>
+    <td>&#9744;</td>
+    <td>SF-181 - Ethnicity and Race Identification</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-181---ethnicity-and-race-identification">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">7</td>
+    <td>&#9744;</td>
+    <td>SF-1199 - Direct Deposit Sign-Up Form</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-1199---direct-deposit-sign-up-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">8</td>
+    <td>&#9744;</td>
+    <td>W-4 - Federal Income Tax Withholding</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#w-4---federal-income-tax-withholding">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">9</td>
+    <td>&#9744;</td>
+    <td>State Tax Withholding Forms</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#state-tax-withholding-forms">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">10</td>
+    <td>&#9744;</td>
+    <td>RSIF - Reserve Status Identification Form</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#rsif---reserve-status-identification-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
+  </tr>
+  <tr>
+    <td scope="row">11</td>
+    <td>&#9744;</td>
+    <td>ECI - Emergency Contact Information</td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#eci---emergency-contact-information">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a></td>
   </tr>
 </table>
+
