@@ -261,7 +261,11 @@ This document serves as a list of tasks for you to complete with corresponding t
  </table>
 
 
-DC: Day 1
+
+
+
+
+### FIRST DAY
 
  <table>
   <thead> 
@@ -275,25 +279,184 @@ DC: Day 1
   <tr>
     <td scope="row">1</td> 
     <td>&#9744;</td>
-    <td></td>
-    <td></td>
+    <td>Arrive at the building by XXX for GSA orientation. (Remember to bring two forms of ID and your I-9 form.)</td>
+    <td>Orientation overview and directions to enter building.</td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
-    <td></td>
-    <td></td>
+    <td>Attend GSA orientation and take oath of office.</td>
+    <td>Location will be provided by XXX.</td>
   </tr>
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
-    <td></td>
-    <td></td>
+    <td>After orientation is over, call or text your buddy who will walk with you to 18F. </td>
+    <td>Information is in email sent by your talent coordinator.</td>
+  </tr>
+  <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Receive your laptop, badge, and phone.</td>
+    <td>Your phone and badge may not be available on day 1. Team Talent will provide more information.</td>
+  </tr>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>Log onto your Mac and change your root password.</td>
+    <td><a href="https://support.apple.com/en-us/HT202860">Instructions</a></td>
+  </tr>
+  <tr>
+    <td scope="row">6</td> 
+    <td>&#9744;</td>
+    <td>Connect to GSA’s secure network</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">7</td> 
+    <td>&#9744;</td>
+    <td>Change your ENT (enterprise) password. This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive.</td>
+    <td><a href="https://insite.staging.gsa.gov/portal/category/534038">Instructions</a><br><i> You must complete step 6. before this step, because you must be on GSA's network to see these instructions.</i></td>
+  </tr>
+  <tr>
+    <td scope="row">8</td> 
+    <td>&#9744;</td>
+    <td>Sign into your work email</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">9</td> 
+    <td>&#9744;</td>
+    <td>Set up GSA’s 2FA so that you can access your work email from outside of a federal building. <b>Note:</b> You must complete this task inside a federal building.</td>
+    <td>Instructions</td>
+  </tr>
+   <tr>
+    <td scope="row">10</td> 
+    <td>&#9744;</td>
+    <td>Set up Slack, our chat program, so that you can communicate with your colleagues</td>
+    <td>Instructions</td>
+  </tr>
+   <tr>
+    <td scope="row">11</td> 
+    <td>&#9744;</td>
+    <td>Add your contact information to the 18F Staff Contact Document</td>
+    <td>Instructions</td>
+  </tr>
+ </table>
+
+ ### SECOND DAY
+
+ <table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <td>&#9744;</td>
+    <td>Orientation classes begin. You will be taking a variety of Slack-based classes in the #18f-classes channel with your cohort</td>
+    <td>#18F-Classes | Class Schedule and Checklist</td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <td>&#9744;</td>
+    <td>Make sure your Macbook is secure</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <td>&#9744;</td>
+    <td>Double check to make sure you have access to 18F Calendars.</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Read your Office Guide to learn more about where you work</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>Attend 18F’s weekly all-hands meeting</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">6</td> 
+    <td>&#9744;</td>
+    <td>Fill out transit subsidy, if you commute via public transportation to work.</td>
+    <td>Instructions</td>
   </tr>
  </table>
 
 
+### FIRST WEEK
 
+*These are tasks that you should complete by the end of your first week. We are providing a checklist as an easy way to make sure you’ve completed everything!*
 
+ <table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <td>&#9744;</td>
+    <td>After receiving your work phone, set up 2FA.</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <td>&#9744;</td>
+    <td>Pick up badge</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <td>&#9744;</td>
+    <td>Set up GitHub account.</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Set up VPN.</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>Set up printer</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">6</td> 
+    <td>&#9744;</td>
+    <td>Sign up for listservs that interest you.</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">7</td> 
+    <td>&#9744;</td>
+    <td>Meet with your director</td>
+    <td>Instructions</td>
+  </tr>
+  <tr>
+    <td scope="row">8</td> 
+    <td>&#9744;</td>
+    <td>Write your bio and submit a picture for the 18F website</td>
+    <td>Instructions</td>
+  </tr>
+ </table>
+
+### FIRST MONTH
 
 
