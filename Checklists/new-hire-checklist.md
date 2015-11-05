@@ -176,7 +176,6 @@ This document serves as a list of tasks for you to complete with corresponding t
   </thead>
   <tr>
     <td scope="row">1</td> 
-    
     <td>&#9744;</td>
     <td>SF-2809 - Health Benefits Election Form</td>
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form">Info</a> | Email to XXX</a></td>
@@ -201,7 +200,6 @@ This document serves as a list of tasks for you to complete with corresponding t
   <thead> 
     <tr> 
       <th scope="col"></th> 
-      
       <th scope="col">&#10003;</th>
       <th scope="col">Beneficiary forms<br><i>These are not time sensitive and can be completed at your convenience.</i></th>
       <th scope="col">Information and/or contacts</th>
@@ -209,7 +207,6 @@ This document serves as a list of tasks for you to complete with corresponding t
   </thead>
   <tr>
     <td scope="row">1</td> 
-    
     <td>&#9744;</td>
     <td>SF-1152 - Designation of Beneficiary (Unpaid Compensation)</td>
     <td>Info | Email to XXX</a></td>
