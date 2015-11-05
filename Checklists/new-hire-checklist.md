@@ -459,4 +459,85 @@ This document serves as a list of tasks for you to complete with corresponding t
 
 ### FIRST MONTH
 
-
+ <table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Information and/or contacts</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <td>&#9744;</td>
+    <td>Fill out OGE 450</td>
+    <td>Team dependent, check with your director. Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <td>&#9744;</td>
+    <td>Schedule a virtual tea with two coworkers</td>
+    <td>Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <td>&#9744;</td>
+    <td>Receive necessary software licenses</td>
+    <td>Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Learn about 18F Org Chart and 18F’s relation to OCSIT</td>
+    <td>Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>Confirm CHRIS account</td>
+    <td>This may take 4-6 weeks. Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">6</td> 
+    <td>&#9744;</td>
+    <td>Sign into Employee Express</td>
+    <td>This is available after your first paycheck. Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">7</td> 
+    <td>&#9744;</td>
+    <td>Confirm OLU (Online Learning University) account.</td>
+    <td>GSA’s mandatory training for employees. This will be available after your CHRIS account is set up. Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">8</td> 
+    <td>&#9744;</td>
+    <td>Check to make sure all of your submitted benefits information is correct.</td>
+    <td>Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">9</td> 
+    <td>&#9744;</td>
+    <td>Take travel training so that you can travel.</td>
+    <td>Instructions.</td>
+  </tr>
+  <tr>
+    <td scope="row">10</td> 
+    <td>&#9744;</td>
+    <td>Complete mandatory OLU trainings.</td>
+    <td>Instructions | You must have completed step 5. to do this step, so the process may take 4-6 weeks.</td>
+  </tr>
+  <tr>
+    <td scope="row">11</td> 
+    <td>&#9744;</td>
+    <td>Fill out your Individual Development Plan.</td>
+    <td>Instructions. This will allow you to take trainings and classes.</td>
+  </tr>
+  <tr>
+    <td scope="row">12</td> 
+    <td>&#9744;</td>
+    <td>Learn about 18F Offsites</td>
+    <td>Information</td>
+  </tr>
+ </table>
