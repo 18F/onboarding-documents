@@ -2,7 +2,7 @@ Hi **[NAME]**,
 
 We’re so excited you’re joining the 18F team within the General Services Administration (GSA). I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for **[DATE]**.
 
-A head's up: It may take a few days to get you fully situated. Your GSA orientation may go long. Unexpected computer troubles or delays may arise. We will help you. The most important thing for your first few days is to relax and go with the flow. We’ll help get you situated and you’ll be up and running in no time. (If you run into any difficulties, please let me know.)
+(Sometimes unexpected delays happen in getting set up. Don’t worry, we will help you through it.)
 
 ## Day 1: GSA Orientation
 
