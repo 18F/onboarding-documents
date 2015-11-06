@@ -16,6 +16,8 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 **What to expect at orientation:** At GSA Orientation, you'll learn about GSA and the legal and ethical considerations of working for the federal government. You'll also take an oath of office, and hand in any paperwork you haven't yet sent to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov).
 
+**Badge info:** You will receive an email at your personal and work account when your badge is ready to be picked up. Don't worry if it's not ready on your first day. 
+
 ## Day 2
 
 Please arrive at 8AM CST on your second day of work. Ethan Heppner, 18F Chicago’s office operations coordinator, will help walk you get on the GSA network and work through the tasks on your **CHECKLIST**.
