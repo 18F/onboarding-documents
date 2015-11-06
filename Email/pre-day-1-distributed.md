@@ -14,11 +14,11 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 **Your computer**: 
 
-(You can pick up your computer ___________. Please call __________ at __________ if you have any questions.)
+You can pick up your computer ___________. Please call __________ at __________ if you have any questions.
 
 OR
 
-(Your computer was FedExed to your home and should arrive on XXX.) 
+Your computer was FedExed to your home and should arrive on XXX.
 
 **NOTE: Before you leave the federal building on your first day, you must set up two-factor authentication. Instructions are attached. You will not be able to read your GSA email or access anything on the GSA network if you do not set this up before you leave the federal building. Please call ______ at _______ if you have any trouble with this.**
 
