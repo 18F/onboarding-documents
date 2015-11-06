@@ -14,7 +14,7 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 *Note: It's likely that you already filled out an I-9 and emailed it to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov) To be safe, it's good to have a printed copy too.*
 
-**What to expect at orientation:** At GSA Orientation, you'll learn about GSA and the legal and ethical considerations of working for the federal government. You'll also take an oath of office, and hand in any paperwork you haven't yet sent to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov).
+**What to expect at orientation:** At GSA Orientation, you'll learn about GSA and the legal and ethical considerations of working for the federal government. You'll also take an oath of office, and hand in any paperwork you haven't yet sent to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov). (Our guide for filling that paperwork out is [here](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md).)
 
 **Badge info:** You will receive an email at your personal and work account when your badge is ready to be picked up. Don't worry if it's not ready on your first day. 
 
