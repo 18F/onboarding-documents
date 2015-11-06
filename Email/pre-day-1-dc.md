@@ -1,4 +1,4 @@
-Hi {{name}},
+Hi **[NAME]**,
 
 We’re so excited you’re joining the 18F team within the General Services Administration (GSA)! I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for [DATE].
 
@@ -18,7 +18,7 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 **Orientation:** After you check in with security, someone from GSA HR will meet you at the front desk and take you to your orientation. The length of orientation may vary, but generally takes a few hours. You’ll take an oath of office and learn about the government’s ethics policies. You will also submit any the paperwork you received before starting work that you have not emailed to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov). (Our guide for filling that paperwork out is [here](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md).) 
 
-After orientation, call or text *[NAME]* at *[NUMBER]*, who will walk with you to 18F.  
+After orientation, call or text **[NAME]** at **[NUMBER]**, who will walk with you to 18F.  
 
 On your first day, you'll complete all of the tasks on [this checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/new-hire-checklist.md#first-day). 
 
@@ -26,6 +26,6 @@ Attached is a note that will help you with your first day tasks. **This is reall
 
 Have a great first day! 
 
-- *[NAME]*
+- **[NAME]**
 
 
