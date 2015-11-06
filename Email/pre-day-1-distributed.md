@@ -1,6 +1,8 @@
 Hi **[NAME]**,
 
-We’re so excited you’re joining the 18F team within the General Services Administration (GSA)! I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for **[DATE]**.
+We’re so excited you’re joining the 18F team within the General Services Administration (GSA). I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for **[DATE]**.
+
+A head's up: It may take a few days to get you fully situated. Your GSA orientation may go long. Unexpected computer troubles or delays may arise. We will help you. The most important thing for your first few days is to relax and go with the flow. We’ll help get you situated and you’ll be up and running in no time. (If you run into any difficulties, please let me know.)
 
 ## Day 1: GSA Orientation
 
@@ -21,8 +23,6 @@ OR
 Your computer was FedExed to your home and should arrive on XXX.
 
 **NOTE: Before you leave the federal building on your first day, you must set up two-factor authentication. Instructions are attached. You will not be able to read your GSA email or access anything on the GSA network if you do not set this up before you leave the federal building. Please call ______ at _______ if you have any trouble with this.**
-
-I also want to say this: It may take a few days to get you situated. Your GSA orientation may go long. Unexpected computer troubles may arise. We will help you. The most important thing for your first few days is to relax. If it takes a day longer, that’s okay. We’ll help get you situated and you’ll be up and running in no time. (If you run into any difficulties, please let me know.)
 
 ## Day 2: 18F Orientation
 
