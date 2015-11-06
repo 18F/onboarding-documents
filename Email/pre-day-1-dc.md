@@ -6,7 +6,7 @@ We’re so excited you’re joining the 18F team within the General Services Adm
 
 Your first day at 18F will begin with a mandatory orientation administered by GSA HR.
 
-**When:** 7:45 AM ET
+**Time:** 7:45 AM ET
 
 **Where:** 1800 F Street NW, Washington DC
 
