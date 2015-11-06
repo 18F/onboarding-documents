@@ -20,7 +20,7 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 ## Day 2
 
-Please arrive at 8AM CST on your second day of work. Ethan Heppner, 18F Chicago’s office operations coordinator, will help walk you get on the GSA network and work through the tasks on your **CHECKLIST**.
+Please arrive at 8AM CST on your second day of work. Ethan Heppner, 18F Chicago’s office operations coordinator, will help walk you get on the GSA network and work through the tasks on your **CHECKLIST**. If you run into any difficulties, Ethan's email is ethan.heppner@gsa.gov and his phone number is 312-887-1330.
 
 Attached is a note that will help you with your second day tasks. **This is really important** - you must set up GSA's 2FA (task 9) inside the federal building; otherwise, you will not be able to access Google Apps or your email from outside the building. 
 
