@@ -6,7 +6,7 @@ We’re so excited you’re joining the 18F team within the General Services Adm
 
 Your first day at 18F will begin with a mandatory orientation administered by GSA HR.
 
-**What time:** 
+**Time:** 
 
 **Where:** GSA onboarding is typically conducted on Mondays at 50 UN Plaza. 18F SF onboarding takes place after GSA orientation at our office suite, #1140. 
 
