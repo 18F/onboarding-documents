@@ -16,7 +16,7 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 **What to expect at orientation:** At GSA Orientation, you'll learn about GSA and the legal and ethical considerations of working for the federal government. You'll also take an oath of office, and hand in any paperwork you haven't yet sent to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov). (Our guide for filling that paperwork out is [here](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md).)
 
-**Badge info:** You will receive an email at your personal and work account when your badge is ready to be picked up. Don't worry if it's not ready on your first day. 
+**Badge info:** You will receive an email at your personal and work account when your badge is ready to be picked up. If you've already received this email, we recommend scheduling your pick-up appointment in the morning before orientation starts. Don't worry if it's not ready on your first day. 
 
 ## Day 2
 
