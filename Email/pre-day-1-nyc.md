@@ -15,10 +15,11 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 *Note: It's likely that you already filled out an I-9 and emailed it to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov) To be safe, it's good to have a printed copy too.*
 
+**Orientation:** After you check in with security, someone from GSA HR will meet you at the front desk and take you to your orientation. The length of orientation may vary, but generally takes a few hours. You’ll take an oath of office and learn about the government’s ethics policies. You will also submit any the paperwork you received before starting work that you have not emailed to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov). (Our guide for filling that paperwork out is [here](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md).)
 
-**Orientation:** After you check in with security, someone from GSA HR will meet you at the front desk and take you to your orientation. The length of orientation may vary, but generally takes a few hours. You’ll take an oath of office and learn about the government’s ethics policies. You will also submit any the paperwork you received before starting work that you have not emailed to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov). (Our guide for filling that paperwork out is [here](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md).) 
+## After GSA orientation
 
-After orientation, call or text **[NAME]** at **[NUMBER]**, who will walk with you to 18F.  
+After orientation, call or text **[NAME]** at **[NUMBER]**, who will walk with you to where 18F sits.  
 
 On your first day, you'll complete all of the tasks on [this checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/new-hire-checklist.md#first-day). 
 
