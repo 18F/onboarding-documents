@@ -9,13 +9,12 @@ Your first day at 18F will begin with a mandatory orientation administered by GS
 
 **Time:** 
 
-**Where:** 
+**Where:** Javits Federal Building 26 Federal Plaza. Note: the Federal Building has TSA-style security and you will not be able to skip it until you have your badge. In the morning, it may take 15-20 minutes to get through security to enter the building.
 
-**Bring:** I-9 form with two forms of proper identification (see [acceptable documents](http://www.uscis.gov/i-9-central/acceptable-documents)).
+**Bring:** I-9 form with two forms of proper identification (see [acceptable documents](http://www.uscis.gov/i-9-central/acceptable-documents)). 
 
 *Note: It's likely that you already filled out an I-9 and emailed it to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov) To be safe, it's good to have a printed copy too.*
 
-**Security:** 
 
 **Orientation:** After you check in with security, someone from GSA HR will meet you at the front desk and take you to your orientation. The length of orientation may vary, but generally takes a few hours. You’ll take an oath of office and learn about the government’s ethics policies. You will also submit any the paperwork you received before starting work that you have not emailed to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov). (Our guide for filling that paperwork out is [here](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md).) 
 
