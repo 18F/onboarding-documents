@@ -1,6 +1,6 @@
 Hi **[NAME]**,
 
-We’re so excited you’re joining the 18F team within the General Services Administration (GSA)! I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for [DATE].
+We’re so excited you’re joining the 18F team within the General Services Administration (GSA)! I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for **[DATE]**.
 
 ## Day 1: GSA and 18F Orientation
 
