@@ -2,6 +2,8 @@ Hi **[NAME]**,
 
 We’re so excited you’re joining the 18F team within the General Services Administration (GSA)! I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for **[DATE]**.
 
+(Sometimes unexpected delays happen in getting set up. Don’t worry, we will help you through it.)
+
 ## Day 1: GSA and 18F Orientation
 
 Your first day at 18F will begin with a mandatory orientation administered by GSA HR.
