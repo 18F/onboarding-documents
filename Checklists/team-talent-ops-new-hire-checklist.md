@@ -5,7 +5,6 @@ TEAMS TALENT / OPS NEW HIRE CHECKLIST
   <thead> 
     <tr> 
       <th scope="col"></th> 
-      
       <th scope="col">&#10003;</th>
       <th scope="col">Task</th>
       <th scope="col">Days from Selection</th>
