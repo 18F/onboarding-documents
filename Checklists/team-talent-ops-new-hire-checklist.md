@@ -339,14 +339,14 @@
       <td>Cristina coordinating</td>
   </tr>
   <tr>
-
       <td scope="row">32</td>
       <td>&#9744;</td>
       <td>Process RPA (Request for Personnel Action)</td>  
       <td></td>
       <td>Talent</td>  
       <td>Talent</td>  
-      <td>Jamie</td> <td>CHRIS</td> 
+      <td>Jamie</td> 
+      <td>CHRIS</td> 
       <td>Possibly OHRM in the future.</td>
   </tr>
   <tr>
