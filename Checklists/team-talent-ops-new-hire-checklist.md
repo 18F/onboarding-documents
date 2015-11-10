@@ -229,7 +229,8 @@
       <td>Talent</td>  
       <td>Talent</td>  
       <td>Cristina</td>  
-      <td>Google Drive</td>       
+      <td>Google Drive</td>
+      <td></td>       
   </tr>
   <tr>
       <td scope="row">22</td> 
@@ -239,7 +240,8 @@
       <td>Phaedra/Aaron</td> 
       <td>Talent</td>  
       <td>Shawnique</td> 
-      <td>Hard Copies</td>      
+      <td>Hard Copies</td>  
+      <td></td>    
   </tr>
   <tr>
       <td scope="row">23</td> 
@@ -291,7 +293,8 @@
       <td>Clearned to have ENT account</td> 
       <td><td> 
       <td>GSA HR/IT</td>
-      <td>GSA HR/IT</td> N/A</td> 
+      <td>GSA HR/IT</td> 
+      <td>N/A</td> 
       <td><td> 
       <td>Cristina coordinating</td>      
   </tr>
@@ -334,7 +337,8 @@
       <td>Send candidate confirmation of ID being available</td>
       <td><td> 
       <td>GSA</td> 
-      <td>GSA N/A</td> 
+      <td>GSA</td> 
+      <td>N/A</td> 
       <td><td> 
       <td>Cristina coordinating</td>
   </tr>
@@ -379,16 +383,17 @@
       <td>Talent</td>
       <td>Talent</td>  
       <td>Shawnique</td> 
-      <td>Google Drive  
+      <td>Google Drive</td>  
       <td></td>
   </tr>
   <tr>
       <td scope="row">36</td>
       <td>&#9744;</td>
-      <td>Add Name, RPA, etc. to Hiring Tracker 
-      <td> </td>
+      <td>Add Name, RPA, etc. to Hiring Tracker</td> 
+      <td></td>
       <td>Talent</td>  
-      <td>Talent</td>   
+      <td>Talent</td> 
+      <td></td>  
       <td>Google Drive</td>
       <td>RPA piece could possibly be OHRM in the future, varies based on team</td>
   </tr>
@@ -407,6 +412,8 @@
       <td scope="row">38</td>
       <td>&#9744;</td>
       <td>Ask Candidate for Bio, Preferred Gender Pronoun, and Picture for Wall After Candidate Accepts Tentative Offer Internet/Candidate</td>
+      <td></td>
+      <td></td>
       <td>Talent</td>  
       <td>Shawnique</td> 
       <td>Internet</td>  
@@ -416,27 +423,29 @@
       <td scope="row">39</td>
       <td>&#9744;</td>
       <td>Confirm Candidate shows Active in GCIMS 2 Weeks before EOD</td>
+      <td></td>
       <td>OHRM</td>
       <td>Talent</td>
       <td>Shawnique</td>
-      <td>GSA System  
+      <td>GSA System</td>  
       <td></td>
   </tr>
   <tr>
       <td scope="row">40</td>
-      <td>GSA HR notifies 18F candidate is coming for orientation (EOD)</td>
       <td>&#9744;</td>
+      <td>GSA HR notifies 18F candidate is coming for orientation (EOD)</td>
       <td></td> 
       <td></td> 
       <td></td> 
       <td></td> 
       <td></td> 
-      <td>cc 18F on email, goes directly to candidate with offer letter<td>
+      <td>cc 18F on email, goes directly to candidate with offer letter</td>
   </tr>
   <tr>
       <td scope="row">41</td>
-      <td>Add to 18F Roster 2 Weeks before EOD</td>
       <td>&#9744;</td>
+      <td>Add to 18F Roster 2 Weeks before EOD</td>
+      <td></td>
       <td>Talent</td>
       <td>Talent</td>
       <td>Cristina / Shawnique</td>
@@ -453,14 +462,315 @@
       <td></td> 
       <td></td> 
       <td>This is a form - ask Matt<td>     
-</tr>
-<tr>
+  </tr>
+  <tr>
       <td scope="row">43</td>
       <td>&#9744;</td>
       <td>Generate New Hire IT Ticket (email, computer, phone)  2 Weeks before EOD  Talent</td>
+      <td></td>
       <td>Ops</td>
       <td>Whoever produces the ticket will do this: varies by location</td>
+      <td></td>
       <td>GSA System</td>
       <td></td>
+ </tr>
+  <tr>
+      <td scope="row">44</td>
+      <td>&#9744;</td>
+      <td>Reserve Macbook Air or Pro</td>
+      <td>2 Weeks before EOD</td>
+      <td></td> 
+      <td>Ops</td>
+      <td>Whoever produces the ticket will do this: varies by location</td>
+      <td></td> 
+      <td></td>
   </tr>
- <table>
+  <tr>
+      <td scope="row">45</td>
+      <td>&#9744;</td>
+      <td>Deliver MacBook to local IT shop</td>
+      <td>2 Weeks before EOD</td>
+      <td></td> 
+      <td>Ops</td>
+      <td>Whoever produces the ticket will do this: varies by location  
+      <td></td> 
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">46</td>
+      <td>&#9744;</td>
+      <td>Send "What to Expect on Day 1 Email" - including class schedule </td>
+      <td>Week Before EOD </td>
+      <td>Talent  </td>
+      <td>Talent  </td>
+      <td>Shawnique </td>
+      <td>Google Drive  </td>
+      <td></td>     
+  </tr>
+  <tr>
+      <td scope="row">47</td>
+      <td>&#9744;</td>
+      <td>Confirm Badge is Ready</td>  
+      <td></td> 
+      <td>GSA Security</td>  
+      <td>?</td>
+      <td></td>
+      <td></td>
+      <td>Ask Cristina about this. HR is supposed to send something ahead of time.</td>
+  </tr>
+  <tr>
+      <td scope="row">48 </td>
+      <td>&#9744;</td>
+      <td>Confirm laptop, phone are ready</td>
+      <td>Friday before</td>
+      <td>Ops</td> 
+      <td>Ops</td>
+      <td></td>
+      <td></td>
+      <td></td> 
+  </tr>
+  <tr>
+      <td scope="row">49</td>
+      <td>&#9744;</td>
+      <td>Confirm locker availability
+      <td>Week before EOD</td>
+      <td></td> 
+      <td>Ops</td>
+      <td></td> 
+      <td></td> 
+      <td>only in DC (?)</td>     
+ </tr>
+  <tr>
+      <td scope="row">50</td>
+      <td>&#9744;</td>
+      <td>Receive intro email to local office manager</td> 
+      <td>Week before EOD</td> 
+      <td>Ops<td> 
+      <td></td> 
+      <td></td> 
+      <td></td> 
+      <td>Might be nice to send office guide + how to do email as well, add to what to expect to day 1.</td>
+  </tr>
+  <tr>
+      <td scope="row">51</td>
+      <td>&#9744;</td>
+      <td>Add to Slack</td>  
+      <td>Day 1</td>
+      <td>Talent</td>  
+      <td>DevOps</td>
+      <td>Ozzy</td> 
+      <td>Slack; 18F Hub</td>  
+      <td>Suggest #news, #general-news, location-based chat, #18f-classes, and #random</td>
+  </tr>
+  <tr>
+      <td scope="row">52</td>
+      <td>&#9744;</td>
+      <td>Pick a buddy</td>
+      <td>Week Before EOD</td> 
+      <td>Onboarding Coordinator</td>
+      <td>Onboarding Coordinator</td>
+      <td></td> 
+      <td></td> 
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">53</td>
+      <td>&#9744;</td>  
+      <td>Buddy sends intro email</td> 
+      <td>Week Before EOD</td>
+      <td>Onboarding Coordinator</td> 
+      <td>Buddy</td> 
+      <td></td>
+      <td></td> 
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">54</td>
+      <td>&#9744;</td>
+      <td>Add to Google Drive Week</td> 
+      <td>Before EOD</td> 
+      <td>18F Staff Talent</td>
+      <td>18F Team</td> 
+      <td></td> 
+      <td></td>
+      <td>Google Drive "can't add them until email is created fyi Talent = X folders, etc. (what are those folders?) Team coordinator for all other (need contact, by team) ASK SHAWNIQUE"</td>
+  </tr>
+  <tr>
+      <td scope="row">55</td> 
+      <td>&#9744;</td> 
+      <td>Badge (remind them they need to get it activated) </td>
+      <td>First Day </td> 
+      <td>Security Office </td>
+      <td> Candidate </td>
+      <td></td> 
+      <td></td> 
+      <td>  On hub - provide room number + reminder - or add to the what to expect on Day 1 email </td>
+  </tr>
+  <tr>
+      <td scope="row">56</td>
+      <td>&#9744;</td> 
+      <td> Phone </td> 
+      <td> First Day </td>
+      <td> IT  </td>
+      <td> Candidate </td>
+      <td></td>
+      <td> </td>
+<td></td> 
+      <td>TBD based on convo with Talent, Ops, DevOps around division of duties</td>
+  </tr>
+  <tr>
+      <td scope="row">57</td> 
+      <td>&#9744;</td>  
+      <td>  Computer  </td> 
+      <td>  First Day </td> 
+      <td>  Talent from Ops </td>
+      <td> Ops </td>
+      <td> </td>
+      <td> </td>
+      <td>  DevOps (or Ops) - Who configures laptop? Who sets homepage? </td>
+  </tr>
+  <tr>     
+      <td scope="row">58</td> 
+      <td>&#9744;</td>  
+      <td>  18F Team Calendar </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td> 
+      <td> Google Drive 
+      <td> "Talent = X calendars, etc. Team coordinator for all other (need contact by team)"  </td>
+  </tr>
+  <tr>  
+
+      <td scope="row">59</td>
+      <td>&#9744;</td>  
+      <td>Events</td>
+      <td>First Day or prior to</td>
+      <td>Talent</td>
+      <td>Talent</td>
+      <td>Shawnique</td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>  
+      <td scope="row">  60  </td>
+      <td>&#9744;</td>  
+      <td>  Out of Office </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr>  
+<td scope="row">  61  </td>
+      <td>&#9744;</td>  
+      <td>  Interviews </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr>  
+<td scope="row">  62  </td>
+      <td>&#9744;</td>  
+      <td>  Recurring Meetings </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr>  
+<td scope="row">  63  </td>
+      <td>&#9744;</td>  
+      <td>  18F-Classes </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr>  
+<td scope="row">  64  </td>
+      <td>&#9744;</td>  
+      <td>  Working Groups and Guilds </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr>  
+<td scope="row">  65  </td>
+      <td>&#9744;</td>  
+      <td>  Out of Office </td>
+      <td>  First Day or prior to </td>
+      <td>  Talent  </td>
+      <td> Talent  </td>
+      <td> Shawnique </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr>  
+      <td scope="row">  66  </td>
+      <td>&#9744;</td>  
+      <td>  Have Candidate enter Contact Info in to 18F Staff Contact Document  </td>
+      <td>  First Day </td>
+      <td>  Candidate </td>
+      <td> Talent  </td>
+      <td> Candidate </td>
+      <td> Google Drive  <td>  
+      <td></td> 
+  </tr>
+  <tr> 
+      <td scope="row">  67  </td>
+      <td>&#9744;</td> 
+      <td>  Sign into Slack after 2FA is set up </td>
+      <td>  First Day </td>
+      <td>  Candidate </td>
+      <td> Talent  </td>
+      <td> Candidate </td>
+      <td> Slack </td> 
+      <td></td>
+
+  </tr>
+  <tr> 
+      <td scope="row">  68  </td>
+      <td>&#9744;</td>  
+      <td>  Added to Dolores Landingham onboarding bot  </td>
+      <td>  First Day </td>
+      <td> </td>
+      <td> Onboarding Coordinator  </td>
+      <td> Onboarding Coordinator  </td>
+      <td> </td>
+      <td></td>
+  </tr>
+  <tr> 
+      <td scope="row">  69  </td>
+      <td>&#9744;</td>  
+      <td>  Learns about people on team </td>
+      <td>  First Day </td>
+      <td>  Director  </td>
+      <td> ??  </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>      
+      <td scope="row">  70  </td>
+      <td>&#9744;</td>  
+      <td>  Added to Hub  </td>
+      <td>  First Week  </td>
+      <td>  Candidate </td>
+      <td> Mike Bland (?)  </td>
+      <td></td>
+      <td></td>
+      <td>  How are they notified? Dolores? </td>
+</table>
