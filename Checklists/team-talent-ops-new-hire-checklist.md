@@ -1,3 +1,8 @@
+Onboarding Tasks for Talent and Ops
+===================================
+
+First 10 days after selection
+
 <table>
   <thead> 
     <tr> 
@@ -773,4 +778,144 @@
       <td></td>
       <td></td>
       <td>  How are they notified? Dolores? </td>
-</table>
+ </tr>
+  <tr>  
+      <td scope="row">  71  </td>
+      <td>&#9744;</td>  
+      <td>  Notify new hire about forms and insurance </td>
+      <td>  First Week  </td>
+      <td>  Handbook / Onboarding Bot </td>
+      <td> Onboarding Bot  </td>
+      <td> </td>
+      <td> Onboarding Bot </td> 
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  72  </td>
+      <td>&#9744;</td>  
+      <td>  Email 18F about New hire  </td>
+      <td>  First Week  </td>
+      <td>  Talent / Shawnique  </td>
+      <td> Director  </td>
+      <td> Director  </td>
+      <td> Based on Bio </td> 
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  73  </td>
+      <td>&#9744;</td>  
+      <td>  Provide List of "Opt-In Listserves" </td>
+      <td>  First Week  </td>
+      <td>  Onboarding Bot  </td>
+      <td> Onboarding Bot  </td>
+      <td> </td>
+      <td> </td>
+      <td>  Trigger for Gray = news channel announcement on Day 1 - who's joined. Tag Gray? </td>
+  </tr>
+  <tr>
+      <td scope="row">  74  </td>
+      <td>&#9744;</td>  
+      <td>  Building Tour </td>
+      <td></td>
+      <td> </td>
+      <td> ??  </td>
+      <td></td> 
+      <td> </td>
+      <td>  Team Buddy for future </td>
+  </tr>
+  <tr>
+      <td scope="row">  75  </td>
+      <td>&#9744;</td>  
+      <td>  Basic what to do and not do on Gov't equipment  </td>
+      <td>  First Week  </td>
+      <td></td>
+      <td> #18F-Classes  </td>
+      <td></td> 
+      <td> </td>
+      <td>  18F-Classes </td>
+  </tr>
+  <tr>
+      <td scope="row">  76  </td>
+      <td>&#9744;</td>  
+      <td>  Add to GitHub </td>
+      <td>  Week One (After 2FA has been enabled) </td>
+      <td>  Talent  </td>
+      <td> #admins-github</td>
+      <td></td>
+      <td>GitHub</td>
+      <td>  Talent - What to expect on Day 1 email (this should happen, if not - here's your contact) </td>
+  </tr>
+  <tr>
+      <td scope="row">  77  </td>
+      <td>&#9744;</td>  
+      <td>  Receives necessary software licenses  </td>
+      <td>  Week One  </td>
+      <td>  DevOps? Ops?  </td>
+      <td> #devops? #teamops?</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  78  </td>
+      <td>&#9744;</td> 
+      <td>  Transit Subsidy </td>
+      <td>  First Day/Week  </td>
+      <td>  Candidate </td>
+      <td> Candidate & Needs Supervisor Signature  </td>
+      <td></td>
+      <td> GSA Form</td>
+      <td></td>
+  </tr>
+  <tr>
+
+      <td scope="row">  79  </td>
+      <td>&#9744;</td>  
+      <td>  OGE 450 - Ethics doc  </td>
+      <td>  First Day/Week  </td>
+      <td>  Candidate </td>
+      <td> Candidate   </td>
+      <td>  </td>
+      <td> GSA Form  </td>
+      <td>  Ops </td>
+  </tr>
+  <tr>
+      <td scope="row">  80  </td>
+      <td>&#9744;</td>  
+      <td>  Health Insurance Forms  </td>
+      <td>  First Day/Week  </td>
+      <td>  Candidate </td>
+      <td> Candidate</td>   
+      <td></td> 
+      <td> GSA Form </td>
+      <td>  Marty - waiting on information from OHRM/CPC on a 18F only contact  </td>
+  </tr>
+  <tr>
+      <td scope="row">  81  </td>
+      <td>&#9744;</td>  
+      <td>  TSP forms </td>
+      <td>  First Day Week  </td>
+      <td>  Candidate </td>
+      <td> Candidate </td>
+      <td></td>
+      <td> GSA Form  <td>  
+      <td></td> 
+  </tr>
+  <tr>
+      <td scope="row">  82  </td>
+      <td>&#9744;</td>  
+      <td>  Logging on to Computer  </td>
+      <td>  First Day </td>
+      <td></td>
+      <td> Talent</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  83  </td>
+      <td>&#9744;</td>  
+      <td>  18F Google Drive  </td>
+      <td>  First Day </td>
+  </tr>
+</table>  
