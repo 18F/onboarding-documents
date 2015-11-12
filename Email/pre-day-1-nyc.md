@@ -7,7 +7,7 @@ We’re so excited you’re joining the 18F team within the General Services Adm
 
 Your first day at 18F will begin with a mandatory orientation administered by GSA HR.
 
-**Time:** 
+**Time:** 8:30 am
 
 **Where:** Javits Federal Building 26 Federal Plaza. Note: the Federal Building has TSA-style security and you will not be able to skip it until you have your badge. In the morning, it may take 15-20 minutes to get through security to enter the building.
 
