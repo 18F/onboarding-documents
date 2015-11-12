@@ -391,6 +391,12 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td>Fill out transit subsidy, if you commute via public transportation to work.</td>
     <td>Instructions</td>
   </tr>
+    <tr>
+    <td scope="row">6</td> 
+    <td>&#9744;</td>
+    <td>Make sure your Slack avatar and Google avatar contain a picture</td>
+    <td>Instructions</td>
+  </tr>
  </table>
 
 
