@@ -256,7 +256,7 @@ First 10 days after selection
       <td>GSA HR</td>  
       <td>GSA HR</td>  
       <td>N/A</td> 
-      <td><td>  
+      <td></td>  
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -267,7 +267,7 @@ First 10 days after selection
       <td>GSA HR</td>
       <td>GSA HR</td>
       <td>N/A</td>
-      <td><td>  
+      <td></td>  
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -278,7 +278,7 @@ First 10 days after selection
       <td>GSA HR</td> 
       <td>GSA HR</td>
       <td>N/A</td>
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -289,7 +289,7 @@ First 10 days after selection
       <td>GSA HR</td> 
       <td>GSA HR</td>
       <td>N/A</td> 
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -300,7 +300,7 @@ First 10 days after selection
       <td>GSA HR/IT</td>
       <td>GSA HR/IT</td> 
       <td>N/A</td> 
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -311,7 +311,7 @@ First 10 days after selection
       <td>GSA HR</td>
       <td>GSA HR</td> 
       <td>N/A</td>
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -322,7 +322,7 @@ First 10 days after selection
       <td>GSA IT</td>
       <td>GSA IT</td>  
       <td>N/A</td>
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -333,7 +333,7 @@ First 10 days after selection
       <td>GSA HR</td>
       <td>GSA HR</td>  
       <td>N/A</td>
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -344,7 +344,7 @@ First 10 days after selection
       <td>GSA</td> 
       <td>GSA</td> 
       <td>N/A</td> 
-      <td><td> 
+      <td></td> 
       <td>Cristina coordinating</td>
   </tr>
   <tr>
@@ -553,7 +553,6 @@ First 10 days after selection
       <td>Ops<td> 
       <td></td> 
       <td></td> 
-      <td></td> 
       <td>Might be nice to send office guide + how to do email as well, add to what to expect to day 1.</td>
   </tr>
   <tr>
@@ -620,7 +619,6 @@ First 10 days after selection
       <td> Candidate </td>
       <td></td>
       <td> </td>
-<td></td> 
       <td>TBD based on convo with Talent, Ops, DevOps around division of duties</td>
   </tr>
   <tr>
@@ -917,5 +915,196 @@ First 10 days after selection
       <td>&#9744;</td>  
       <td>  18F Google Drive  </td>
       <td>  First Day </td>
+      <td></td>
+      <td> Talent  </td>
+      <td></td>
+      <td></td>
+      <td></td>
   </tr>
-</table>  
+  <tr>
+      <td scope="row">  84  </td>
+      <td>&#9744;</td>  
+      <td>  18F Org Chart & relation to OCSIT </td>
+      <td>  First Month </td>
+      <td></td>
+      <td> Talent </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  85  </td>
+      <td>&#9744;</td>  
+      <td>  18F Handbook  </td>
+      <td>  First Day </td>
+      <td></td>
+      <td> Talent </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  86  </td>
+      <td>&#9744;</td>  
+      <td>  Summary of Systems (what they are and are for:  InSite, Book-it, CHRIS, Employee Express, etc.) </td>
+      <td>  First Day </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  87  </td>
+      <td>&#9744;</td>  
+      <td>  Book-it (room/desk reservations)  </td>
+      <td>  First Month </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  88  </td>
+      <td>&#9744;</td>  
+      <td>  Wireless Access (GSA & Guest) </td>
+      <td>  First Day </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  89  </td>
+      <td>&#9744;</td>  
+      <td>  GSA Insite  </td>
+      <td>  First Month </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  90  </td>
+      <td>&#9744;</td>  
+      <td>  VPN </td>
+<td>  First Week </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  91  </td>
+      <td>&#9744;</td>  
+      <td>  Tock  </td>
+      <td>  First Week </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  92  </td>
+      <td>&#9744;</td>  
+      <td>  First Week </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  93  </td>
+      <td>&#9744;</td>  
+      <td>  Acano/Google Hangouts/Appear.in </td>
+      <td>  First Week </td>
+      <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  94  </td>
+      <td>&#9744;</td>  
+      <td>  Confirm CHRIS account </td>
+      <td>  4 to 6 Weeks  </td>
+      <td></td>
+      <td>Candidate</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  95  </td>
+      <td>&#9744;</td>  
+      <td>  Employee Express  </td>
+      <td>  After first Pay Check </td>
+      <td></td>
+      <td>Candidate</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  96  </td>
+      <td>&#9744;</td>  
+      <td>  Confirm OLU account </td>
+      <td>4 to six weeks</td>
+      <td>Candidate</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  97  </td>
+      <td>&#9744;</td>  
+      <td>  ALOHA training  </td>
+      <td>After first pay check</td>
+      <td>Candidate</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  98  </td>
+      <td>&#9744;</td>  
+      <td>  IT Security Training  </td>
+      <td>4 to six weeks</td>
+      <td>Candidate</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  99  </td>
+      <td>&#9744;</td>  
+      <td>  No FEAR Training  </td>
+      <td>  4 to 6 Weeks  </td>
+      <td>  OLU </td>
+      <td> Candidate 
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td scope="row">  100 </td>
+      <td>&#9744;</td>  
+      <td>  Travel training </td>
+ <td></td>
+      <td> #18F-Classes </td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+</table>
+
+
+
