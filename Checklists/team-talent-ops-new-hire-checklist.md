@@ -291,7 +291,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">23</td> 
       <td>&#9744;</td>
       <td>GSA HR sets salary</td>  
-      <td></td>  
+      <td>Task 24 must be complete.</td>  
       <td>GSA HR</td>  
       <td>GSA HR</td>  
       <td>N/A</td> 
@@ -302,77 +302,77 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">24</td> 
       <td>&#9744;</td>
       <td>Finger-printing / Badge</td>
-      <td><td> 
+      <td>Task 24 must be complete.<td> 
       <td>GSA HR</td>
       <td>GSA HR</td>
       <td>N/A</td>
-      <td></td>  
+      <td>GSA HR Tracker</td>  
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
       <td scope="row">25</td> 
       <td>&#9744;</td>
       <td>Background Check</td>
-      <td><td> 
+      <td>Task 24 must be complete.<td> 
       <td>GSA HR</td> 
       <td>GSA HR</td>
       <td>N/A</td>
-      <td></td> 
+      <td>GSA HR Tracker</td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
       <td scope="row">26</td> 
       <td>&#9744;</td>
       <td>Receives offer letter from HR</td>
-      <td><td> 
+      <td>Task 24 must be complete.<td> 
       <td>GSA HR</td> 
       <td>GSA HR</td>
       <td>N/A</td> 
-      <td></td> 
+      <td>GSA HR Tracker</td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
       <td scope="row">27</td> 
       <td>&#9744;</td>
       <td>Clearned to have ENT account</td> 
-      <td><td> 
+      <td>Takes place after Task 39.<td> 
       <td>GSA HR/IT</td>
       <td>GSA HR/IT</td> 
       <td>N/A</td> 
-      <td></td> 
+      <td>GSA HR Tracker</td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
       <td scope="row">28</td> 
       <td>&#9744;</td>
       <td>Send email about benefits / paperwork</td> 
-      <td><td>   
+      <td>Takes place after task 26. <td>   
       <td>GSA HR</td>
       <td>GSA HR</td> 
       <td>N/A</td>
-      <td></td> 
+      <td>GSA HR Tracker</td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
       <td scope="row">29</td> 
       <td>&#9744;</td>
       <td>Give candidate email address</td>
-      <td><td> 
+      <td>Takes place after Task 39.<td> 
       <td>GSA IT</td>
       <td>GSA IT</td>  
       <td>N/A</td>
-      <td></td> 
+      <td>GSA Tracker</td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
       <td scope="row">30</td> 
       <td>&#9744;</td>
       <td>Put candidate into HR system</td>
-      <td><td> 
+      <td>Takes place after Task 26.<td> 
       <td>GSA HR</td>
       <td>GSA HR</td>  
       <td>N/A</td>
-      <td></td> 
+      <td>GSA HR Tracker</td> 
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
@@ -387,13 +387,32 @@ Onboarding Tasks for Talent and Ops
       <td>Cristina coordinating</td>
   </tr>
   <tr>
+</table> 
+
+### Tasks Talent Completes After Full Package is Submitted to HR
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Days from Selection</th>
+      <th scope="col">Who has the information</th>
+      <th scope="col">Team</th>
+      <th scope="col">Person</th>
+      <th scope="col">Location</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tr>
       <td scope="row">32</td>
       <td>&#9744;</td>
       <td>Process RPA (Request for Personnel Action)</td>  
       <td></td>
       <td>Talent</td>  
       <td>Talent</td>  
-      <td>Jamie</td> 
+      <td>Shawnique</td> 
       <td>CHRIS</td> 
       <td>Possibly OHRM in the future.</td>
   </tr>
@@ -401,10 +420,10 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">33</td>
       <td>&#9744;</td>
       <td>Update RPA Document in Google Drive</td>
-      <td></td> 
+      <td>After Full Package is Submitted (After Task 26.)</td> 
       <td>Talent</td>
       <td>Talent</td>
-      <td>Jamie</td>
+      <td>Shawnique</td>
       <td>Google Drive </td>
       <td></td>
   </tr>
@@ -412,7 +431,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">34</td>
       <td>&#9744;</td>
       <td>Move Candidate Folder to With OHRM and Email OHRM with list of new folders</td>
-      <td></td> 
+      <td>After Full Package is Submitted (After Task 26.)</td> 
       <td>Talent</td>
       <td>Talent</td>  
       <td>Shawnique</td> 
@@ -423,7 +442,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">35</td>
       <td>&#9744;</td>
       <td>Update Hiring Pipeline to "Submitted to OHRM"</td>
-      <td></td>
+      <td>After Full Package is Submitted (After Task 26.)</td>
       <td>Talent</td>
       <td>Talent</td>  
       <td>Shawnique</td> 
@@ -434,9 +453,9 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">36</td>
       <td>&#9744;</td>
       <td>Add Name, RPA, etc. to Hiring Tracker</td> 
-      <td></td>
+      <td>After Full Package is Submitted (After Task 26.)</td>
       <td>Talent</td>  
-      <td>Talent</td> 
+      <td>Shawnique</td> 
       <td></td>  
       <td>Google Drive</td>
       <td>RPA piece could possibly be OHRM in the future, varies based on team</td>
@@ -445,7 +464,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">37</td>
       <td>&#9744;</td> 
       <td>Update Hiring Pipeline with updates made to Hiring Tracker by OHRM</td> 
-      <td></td> 
+      <td>After Full Package is Submitted (After Task 26.)</td> 
       <td>Talent</td>  
       <td>Talent</td>
       <td>Shawnique</td>
@@ -453,21 +472,40 @@ Onboarding Tasks for Talent and Ops
       <td></td>
   </tr>
   <tr>
+</table>
+
+### Two weeks before candidate arrives at 18F
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Days from Selection</th>
+      <th scope="col">Who has the information</th>
+      <th scope="col">Team</th>
+      <th scope="col">Person</th>
+      <th scope="col">Location</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tr>
       <td scope="row">38</td>
       <td>&#9744;</td>
       <td>Ask Candidate for Bio, Preferred Gender Pronoun, and Picture for Wall After Candidate Accepts Tentative Offer Internet/Candidate</td>
+      <td>Two weeks before EOD</td>
       <td></td>
-      <td></td>
-      <td>Talent</td>  
-      <td>Shawnique</td> 
+      <td>Supervisor</td>  
+      <td>Supervisor</td> 
       <td>Internet</td>  
       <td></td>
   </tr>
   <tr>
       <td scope="row">39</td>
       <td>&#9744;</td>
-      <td>Confirm Candidate shows Active in GCIMS 2 Weeks before EOD</td>
-      <td></td>
+      <td>Confirm Candidate shows Active in GCIMS</td>
+      <td> 2 Weeks before EOD</td>
       <td>OHRM</td>
       <td>Talent</td>
       <td>Shawnique</td>
