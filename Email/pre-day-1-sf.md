@@ -1,12 +1,10 @@
-Hi **[NAME]**,
 
-We’re so excited you’re joining the 18F team within the General Services Administration (GSA)! I wanted to give you some details about what to expect at orientation on your first day of work, which is scheduled for **[DATE]**.
 
 ## Day 1: GSA and 18F Orientation
 
 Your first day at 18F will begin with a mandatory orientation administered by GSA HR.
 
-**Time:** 
+**Time:** 8:00 am 
 
 **Where:** GSA onboarding is typically conducted on Mondays at 50 UN Plaza. 18F SF onboarding takes place after GSA orientation at our office suite, #1140. 
 
@@ -22,10 +20,6 @@ After orientation, call or text **[NAME]** at **[NUMBER]**, who will walk with y
 
 On your first day, you'll complete all of the tasks on [this checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/new-hire-checklist.md#first-day). 
 
-Attached is a note that will help you with your first day tasks. **This is really important** - you must set up GSA's 2FA (task 9) inside a federal building; otherwise, you will not be able to access Google Apps or your email from outside the building. 
-
-Have a great first day! 
-
-- **[NAME]**
+**This is really important** - you must set up GSA's 2FA (task 9) inside a federal building; otherwise, you will not be able to access Google Apps or your email from outside the building. 
 
 
