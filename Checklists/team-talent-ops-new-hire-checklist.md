@@ -184,6 +184,25 @@ Onboarding Tasks for Talent and Ops
       <td></td>
   </tr>
   <tr>
+</table>
+
+### Tasks contingent on QA'ing received documents
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Days from Selection</th>
+      <th scope="col">Who has the information</th>
+      <th scope="col">Team</th>
+      <th scope="col">Person</th>
+      <th scope="col">Location</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tr>
       <td scope="row">17</td> 
       <td>&#9744;</td>
       <td>Complete OHRM Checklist for Candidate</td> 
@@ -225,7 +244,7 @@ Onboarding Tasks for Talent and Ops
       <td>Talent</td>  
       <td>Shawnique</td>
       <td>Google Drive / Internet</td> 
-      <td>Is this different than verifying hourly rates and adding Alex to a financial database? Who handles that?</td>
+      <td></td>
   </tr>
   <tr>
       <td scope="row">21</td> 
@@ -250,6 +269,25 @@ Onboarding Tasks for Talent and Ops
       <td></td>    
   </tr>
   <tr>
+</table>
+
+### GSA HR tasks
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Days from Selection</th>
+      <th scope="col">Who has the information</th>
+      <th scope="col">Team</th>
+      <th scope="col">Person</th>
+      <th scope="col">Location</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tr>
       <td scope="row">23</td> 
       <td>&#9744;</td>
       <td>GSA HR sets salary</td>  
@@ -257,7 +295,7 @@ Onboarding Tasks for Talent and Ops
       <td>GSA HR</td>  
       <td>GSA HR</td>  
       <td>N/A</td> 
-      <td></td>  
+      <td>GSA HR Tracker</td>  
       <td>Cristina coordinating</td>      
   </tr>
   <tr>
