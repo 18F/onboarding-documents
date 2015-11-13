@@ -236,8 +236,8 @@ This document serves as a list of tasks for you to complete with corresponding t
   <tr>
     <td scope="row">1</td> 
     <td>&#9744;</td>
-    <td>Learn about your first week.</td>
-    <td>[info]() </td>
+    <td>Receive email from Team Talent and your buddy about your first week.</td>
+    <td></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
