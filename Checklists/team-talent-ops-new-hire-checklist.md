@@ -1,7 +1,7 @@
 Onboarding Tasks for Talent and Ops
 ===================================
 
-First 10 days after selection
+### First 10 days after selection
 
 <table>
   <thead> 
@@ -24,9 +24,9 @@ First 10 days after selection
 	    <td>Immediately</td>
 	    <td>Supervisor</td>
 	    <td>Talent</td>
-	    <td>Cristina</td>
+	    <td>Team POC on Talent</td>
 	    <td></td>
-	    <td></td>
+	    <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">2</td> 
@@ -35,9 +35,9 @@ First 10 days after selection
       <td>0</td>
       <td>Supervisor</td>
       <td>Talent</td>
-      <td>Cristina</td>
+      <td>Team POC on Talent</td>
       <td></td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">3</td> 
@@ -46,9 +46,9 @@ First 10 days after selection
       <td>0 </td>
       <td>Supervisor </td> 
       <td>Talent</td>
-      <td>Cristina</td>
+      <td>Team POC on Talent</td>
       <td></td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">4</td> 
@@ -57,9 +57,9 @@ First 10 days after selection
       <td> 0 </td>
       <td>Supervisor  </td>
       <td> Talent  </td>
-      <td> Cristina</td>
+      <td> Team POC on Talent</td>
       <td></td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">5</td> 
@@ -68,7 +68,7 @@ First 10 days after selection
       <td>0-3 </td>
       <td>Supervisor</td>
       <td>Talent  </td>
-      <td>Shawnique </td>
+      <td>Team POC on Talent </td>
       <td>Email</td>
       <td></td>
   </tr>
@@ -79,9 +79,9 @@ First 10 days after selection
       <td>0-3   </td>
       <td>Talent  </td>
       <td>Talent  </td>
-      <td>Shawnique </td>
+      <td>Team POC on Talent </td>
       <td>Google Drive  </td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">7</td> 
@@ -90,9 +90,10 @@ First 10 days after selection
       <td>n/a </td>
       <td>n/a </td>
       <td>Talent  </td>
-      <td>Shawnique </td>
+      <td>Team POC on Talent </td>
       <td>Email </td>
-      <td>Leah also needs access to resume and to know supervisor/team/branch for context - this takes place after the Congrats email (?)</td>
+      <td>Leah also needs access to resume and to know supervisor/team/branch for context. 
+      POC: Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">9</td> 
@@ -103,7 +104,7 @@ First 10 days after selection
       <td>Talent</td>  
       <td>Shawnique</td>
       <td>Google Drive</td>  
-      <td>Having Cristina look at timing</td>
+      <td></td>
   </tr>
   <tr>
       <td scope="row">10</td> 
@@ -112,9 +113,9 @@ First 10 days after selection
       <td>6-7 </td>
       <td>Candidate</td> 
       <td>Talent </td> 
-      <td>Shawnique</td>
+      <td>Team POC on Talent</td>
       <td>Email</td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">11</td> 
@@ -123,9 +124,9 @@ First 10 days after selection
       <td>8</td> 
       <td>Candidate</td> 
       <td>Talent</td>  
-      <td>Shawnique</td> 
+      <td>Team POC on Talent</td> 
       <td>Email</td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">12</td> 
