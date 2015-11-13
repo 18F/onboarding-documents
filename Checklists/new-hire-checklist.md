@@ -142,7 +142,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">8</td>
     <td>&#9744;</td>
     <td>W-4 - Federal Income Tax Withholding</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#w-4---federal-income-tax-withholding">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#w-4---federal-income-tax-withholding">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
   </tr>
   <tr>
     <td scope="row">9</td>
@@ -177,19 +177,19 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>SF-2809 - Health Benefits Election Form</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form">Info</a> | <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a> </td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a> </td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>SF-2817 - Life Insurance Election Form</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>TSP-1 - Thrift Savings Plan Election Form</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
   </tr>
  </table>
 
@@ -206,19 +206,19 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>SF-1152 - Designation of Beneficiary (Unpaid Compensation)</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part-2-beneficiary-forms">Info</a> | <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#part-2-beneficiary-forms">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>SF-2817 - Life Insurance Election Form</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2817---life-insurance-election-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>TSP-1 - Thrift Savings Plan Election Form</td>
-    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
+    <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
   </tr>
  </table>
 
@@ -236,8 +236,8 @@ This document serves as a list of tasks for you to complete with corresponding t
   <tr>
     <td scope="row">1</td> 
     <td>&#9744;</td>
-    <td>Receive an email from your buddy and your talent coordinator about your first week.</td>
-    <td>info | send to buddy</td>
+    <td>Learn about your first week.</td>
+    <td>[info]() </td>
   </tr>
   <tr>
     <td scope="row">2</td> 
@@ -249,7 +249,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>Send bio (3-5 lines), headshot, and preferred gender pronoun to your buddy.</td>
-    <td>info | Send to buddy</td>
+    <td>[info]() | Send to buddy</td>
   </tr>
  </table>
 
