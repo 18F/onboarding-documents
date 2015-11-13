@@ -516,7 +516,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">40</td>
       <td>&#9744;</td>
       <td>GSA HR notifies 18F candidate is coming for orientation (EOD)</td>
-      <td></td> 
+      <td>Final offer letter - varies, no later than a week before start date</td> 
       <td></td> 
       <td></td> 
       <td></td> 
@@ -532,26 +532,26 @@ Onboarding Tasks for Talent and Ops
       <td>Talent</td>
       <td>Cristina / Shawnique</td>
       <td>Google Drive</td>
-      <td>if PIF, question for Nathan</td>
+      <td>if PIF, Nathan sends information to Cristina / Shawnique</td>
   </tr>
   <tr>
       <td scope="row">42</td>
       <td>&#9744;</td>
       <td>Talent notifies Ops, Director of impending new hire</td>
-      <td></td> 
+      <td>Notification is the Hiring Pipeline Google Doc - Shawnique also notifies Ops 2 weeks before EOD</td> 
       <td>Talent</td>
       <td>Talent</td>
       <td></td> 
       <td></td> 
-      <td>This is a form - ask Matt<td>     
+      <td><td>     
   </tr>
   <tr>
       <td scope="row">43</td>
       <td>&#9744;</td>
-      <td>Generate New Hire IT Ticket (email, computer, phone)  2 Weeks before EOD  Talent</td>
-      <td></td>
+      <td>Generate New Hire IT Ticket (email, computer, phone)</td>
+      <td> 2 Weeks before EOD  </td>
       <td>Ops</td>
-      <td>Whoever produces the ticket will do this: varies by location</td>
+      <td>Matt for everyone but SF. Victor for SF.</td>
       <td></td>
       <td>GSA System</td>
       <td></td>
@@ -563,7 +563,7 @@ Onboarding Tasks for Talent and Ops
       <td>2 Weeks before EOD</td>
       <td></td> 
       <td>Ops</td>
-      <td>Whoever produces the ticket will do this: varies by location</td>
+      <td>Matt for everyone but SF. Victor for SF.</td>
       <td></td> 
       <td></td>
   </tr>
@@ -574,10 +574,29 @@ Onboarding Tasks for Talent and Ops
       <td>2 Weeks before EOD</td>
       <td></td> 
       <td>Ops</td>
-      <td>Whoever produces the ticket will do this: varies by location  
+      <td>Matt for everyone but SF. Victor for SF.</td>
       <td></td> 
       <td></td>
   </tr>
+  <tr>
+</table>
+
+## One week before Candidate arrives at 18F 
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Days from Selection</th>
+      <th scope="col">Who has the information</th>
+      <th scope="col">Team</th>
+      <th scope="col">Person</th>
+      <th scope="col">Location</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
   <tr>
       <td scope="row">46</td>
       <td>&#9744;</td>
@@ -593,9 +612,9 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">47</td>
       <td>&#9744;</td>
       <td>Confirm Badge is Ready</td>  
-      <td></td> 
+      <td>Week Before EOD</td> 
       <td>GSA Security</td>  
-      <td>?</td>
+      <td>Candidate receives an email</td>
       <td></td>
       <td></td>
       <td>Ask Cristina about this. HR is supposed to send something ahead of time.</td>
@@ -604,7 +623,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">48 </td>
       <td>&#9744;</td>
       <td>Confirm laptop, phone are ready</td>
-      <td>Friday before</td>
+      <td>Friday before EOD</td>
       <td>Ops</td> 
       <td>Ops</td>
       <td></td>
@@ -618,9 +637,9 @@ Onboarding Tasks for Talent and Ops
       <td>Week before EOD</td>
       <td></td> 
       <td>Ops</td>
+      <td>Leah</td> 
       <td></td> 
-      <td></td> 
-      <td>only in DC (?)</td>     
+      <td>This is only in DC</td>     
  </tr>
   <tr>
       <td scope="row">50</td>
@@ -630,21 +649,10 @@ Onboarding Tasks for Talent and Ops
       <td>Ops<td> 
       <td></td> 
       <td></td> 
-      <td>Might be nice to send office guide + how to do email as well, add to what to expect to day 1.</td>
+      <td>Send office guide</td>
   </tr>
   <tr>
       <td scope="row">51</td>
-      <td>&#9744;</td>
-      <td>Add to Slack</td>  
-      <td>Day 1</td>
-      <td>Talent</td>  
-      <td>DevOps</td>
-      <td>Ozzy</td> 
-      <td>Slack; 18F Hub</td>  
-      <td>Suggest #news, #general-news, location-based chat, #18f-classes, and #random</td>
-  </tr>
-  <tr>
-      <td scope="row">52</td>
       <td>&#9744;</td>
       <td>Pick a buddy</td>
       <td>Week Before EOD</td> 
@@ -655,7 +663,7 @@ Onboarding Tasks for Talent and Ops
       <td></td>
   </tr>
   <tr>
-      <td scope="row">53</td>
+      <td scope="row">52</td>
       <td>&#9744;</td>  
       <td>Buddy sends intro email</td> 
       <td>Week Before EOD</td>
@@ -666,15 +674,45 @@ Onboarding Tasks for Talent and Ops
       <td></td>
   </tr>
   <tr>
-      <td scope="row">54</td>
+      <td scope="row">53</td>
       <td>&#9744;</td>
       <td>Add to Google Drive Week</td> 
       <td>Before EOD</td> 
-      <td>18F Staff Talent</td>
-      <td>18F Team</td> 
-      <td></td> 
+      <td>18F Staff </td>
+      <td>Talent</td> 
+      <td>Shawnique</td> 
       <td></td>
       <td>Google Drive "can't add them until email is created fyi Talent = X folders, etc. (what are those folders?) Team coordinator for all other (need contact, by team) ASK SHAWNIQUE"</td>
+  </tr>
+  <tr>
+</table>
+
+## Day 1
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">Days from Selection</th>
+      <th scope="col">Who has the information</th>
+      <th scope="col">Team</th>
+      <th scope="col">Person</th>
+      <th scope="col">Location</th>
+      <th scope="col">Notes</th>
+    </tr>
+  </thead>
+  <tr>
+      <td scope="row">54</td>
+      <td>&#9744;</td>
+      <td>Add to Slack</td>  
+      <td>Day 1</td>
+      <td>Talent</td>  
+      <td>#admins-slack</td>
+      <td>#admins-slack</td> 
+      <td>Slack; 18F Hub</td>  
+      <td>Suggest #news, #general-news, location-based chat, #18f-classes, and #random</td>
   </tr>
   <tr>
       <td scope="row">55</td> 
@@ -721,7 +759,6 @@ Onboarding Tasks for Talent and Ops
       <td> "Talent = X calendars, etc. Team coordinator for all other (need contact by team)"  </td>
   </tr>
   <tr>  
-
       <td scope="row">59</td>
       <td>&#9744;</td>  
       <td>Events</td>
