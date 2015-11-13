@@ -132,12 +132,12 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">12</td> 
       <td>&#9744;</td>
       <td>Create Folder for Candidate in Google Drive/With 18F HR Team and add documents.</td>  
-      <td>documents as needed (of306, all docs, etc)</td> 
+      <td>8</td> 
       <td>Talent</td> 
       <td>Talent</td> 
-      <td>Shawnique</td>
+      <td>Team POC on Talent</td>
       <td>Google Drive</td>
-      <td></td>
+      <td>Jamie: design, Esther: delivery, Jen Moran: Consulting</td>
   </tr>
   <tr>
       <td scope="row">13</td> 
@@ -146,7 +146,7 @@ Onboarding Tasks for Talent and Ops
       <td>9-10</td>  
       <td>Talent</td>
       <td>Talent</td> 
-      <td>Cristina</td> 
+      <td>Shawnique / Cristina</td> 
       <td></td>
       <td></td>
   </tr>
@@ -187,7 +187,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">17</td> 
       <td>&#9744;</td>
       <td>Complete OHRM Checklist for Candidate</td> 
-      <td></td> 
+      <td>Task 16 must be complete</td> 
       <td>Talent</td> 
       <td>Talent</td> 
       <td>Shawnique</td>
@@ -198,7 +198,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">18</td> 
       <td>&#9744;</td>
       <td>Draft SQA Letter (Superior Qualifications Agreement) if needed</td>  
-      <td></td>
+      <td>Task 16 must be complete</td>
       <td>Talent</td> 
       <td>Talent</td> 
       <td>Shawnique</td> 
@@ -209,7 +209,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">19</td> 
       <td>&#9744;</td>
       <td>Complete VWA Form (Virtual Work Agreement) if needed</td>
-      <td></td>
+      <td>Task 16 must be complete</td>
       <td>GSA Form</td> 
       <td>Talent</td> 
       <td>Shawnique</td> 
@@ -220,7 +220,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">20</td> 
       <td>&#9744;</td>
       <td>Review GS Salary Tables</td>
-      <td></td>
+      <td>Task 16 must be complete</td>
       <td>Talent</td>  
       <td>Talent</td>  
       <td>Shawnique</td>
@@ -231,7 +231,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">21</td> 
       <td>&#9744;</td>
       <td>QA Documents</td>
-      <td></td>
+      <td>Task 20 must be complete</td>
       <td>Talent</td>  
       <td>Talent</td>  
       <td>Cristina</td>  
@@ -242,7 +242,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">22</td> 
       <td>&#9744;</td>
       <td>Get SQA & VWA Signed as needed</td>
-      <td></td>
+      <td>Tasks 18 and 19 must be complete</td>
       <td>Phaedra/Aaron</td> 
       <td>Talent</td>  
       <td>Shawnique</td> 
