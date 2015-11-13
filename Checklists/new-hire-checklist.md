@@ -272,8 +272,8 @@ This document serves as a list of tasks for you to complete with corresponding t
   <tr>
     <td scope="row">1</td> 
     <td>&#9744;</td>
-    <td>Arrive at the building by XXX for GSA orientation. (Remember to bring two forms of ID and your I-9 form.)</td>
-    <td>Orientation overview and directions to enter building.</td>
+    <td>GSA orientation. (Remember to bring two forms of ID and your I-9 form.)</td>
+    <td>Select your location: [Chicago](https://github.com/18F/onboarding-documents/blob/master/Email/pre-day-1-chicago.md) [DC](https://github.com/18F/onboarding-documents/blob/master/Email/pre-day-1-dc.md) [SF]() [NYC]() [Other]()</td>
   </tr>
   <tr>
     <td scope="row">2</td> 
