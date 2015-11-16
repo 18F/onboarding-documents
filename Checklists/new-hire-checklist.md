@@ -273,67 +273,66 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>GSA orientation. (Remember to bring two forms of ID and your I-9 form.)</td>
-    <td>Select your location: [Chicago](https://github.com/18F/onboarding-documents/blob/master/Email/pre-day-1-chicago.md) [DC](https://github.com/18F/onboarding-documents/blob/master/Email/pre-day-1-dc.md) [SF](https://github.com/18F/onboarding-documents/blob/master/Email/pre-day-1-sf.md) [NYC](https://github.com/18F/onboarding-documents/blob/master/Email/pre-day-1-nyc.md) [Other]()</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Attend GSA orientation and take oath of office.</td>
-    <td>Location will be provided by XXX.</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>After orientation is over, call or text your buddy who will walk with you to 18F. </td>
-    <td>Information is in email sent by your talent coordinator.</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Receive your laptop, badge, and phone.</td>
-    <td>Your phone and badge may not be available on day 1. Team Talent will provide more information.</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">5</td> 
     <td>&#9744;</td>
     <td>Log onto your Mac and change your root password.</td>
-    <td><a href="https://support.apple.com/en-us/HT202860">Instructions</a></td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Connect to GSA’s secure network</td>
-    <td>Instructions</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">7</td> 
     <td>&#9744;</td>
-    <td>Change your ENT (enterprise) password. This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive.</td>
-    <td><a href="https://insite.staging.gsa.gov/portal/category/534038">Instructions</a><br><i> You must complete step 6. before this step, because you must be on GSA's network to see these instructions.</i></td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">8</td> 
     <td>&#9744;</td>
     <td>Sign into your work email</td>
-    <td>Instructions</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>
     <td scope="row">9</td> 
     <td>&#9744;</td>
     <td>Set up GSA’s 2FA so that you can access your work email from outside of a federal building. <b>Note:</b> You must complete this task inside a federal building.</td>
-    <td>Instructions</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
    <tr>
     <td scope="row">10</td> 
     <td>&#9744;</td>
     <td>Set up Slack, our chat program, so that you can communicate with your colleagues</td>
-    <td>Instructions</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
    <tr>
     <td scope="row">11</td> 
     <td>&#9744;</td>
     <td>Add your contact information to the 18F Staff Contact Document</td>
-    <td>Instructions</td>
+    <td>Info will be sent to you in email week before your first week</td>
   </tr>
  </table>
 
