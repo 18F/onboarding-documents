@@ -58,26 +58,34 @@ Director --> New Hire
   <tr>
     <td scope="row">6</td>
     <td>&#9744;</td>
-    <td>Reaches out to new hire to say hello and set up coffee chat</td>
-    <td>Day 1</td>
-    <td> Supervisor </td>
-    <td> New Hire </td>
+    <td>Assign a buddy</td>
+    <td>Week before start date </td>
+     <td> Supervisor</td>
+    <td> Buddy, Onboarding Team </td>
   </tr>
   <tr>
     <td scope="row">7</td>
     <td>&#9744;</td>
-    <td>Gives new hire team-based checklist</td>
-    <td>Day 3</td>
+    <td>Reaches out to new hire to say hello and set up coffee chat</td>
+    <td>Day 1</td>
     <td>Supervisor</td>
-    <td> New Hire</td>
+    <td>New Hire</td>
   </tr>
-    <tr>
+  <tr>
     <td scope="row">8</td>
     <td>&#9744;</td>
     <td>Explain billable hours - emphasize your policy re: billable hours. (Many new staff members will need to be reassured on this point.</td>
     <td>During your coffee chat</td>
     <td>Supervisor</td>
-    <td> New Hire</td>
+    <td>New Hire</td>
+  </tr>
+  <tr>
+    <td scope="row">9</td>
+    <td>&#9744;</td>
+    <td>Gives new hire team-based checklist</td>
+    <td>Day 3</td>
+    <td>Supervisor</td>
+    <td>New Hire</td>
   </tr>
 </table>
 
