@@ -308,6 +308,7 @@ This document serves as a list of tasks for you to complete with corresponding t
   <tr>
     <td scope="row">7</td> 
     <td>&#9744;</td>
+    <td>Change your ENT (enterprise) password. This is your password for signing into systems administered by GSA, including your email, calendar, and Google Drive.</td>
     <td>Info will be sent to you in email week before your first week</td>
   </tr>
   <tr>

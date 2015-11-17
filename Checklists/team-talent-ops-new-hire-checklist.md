@@ -409,7 +409,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">32</td>
       <td>&#9744;</td>
       <td>Process RPA (Request for Personnel Action)</td>  
-      <td></td>
+      <td>After Full Package is Submitted (After Task 26.)</td>
       <td>Talent</td>  
       <td>Talent</td>  
       <td>Shawnique</td> 
@@ -617,7 +617,7 @@ Onboarding Tasks for Talent and Ops
       <td>Candidate receives an email</td>
       <td></td>
       <td></td>
-      <td>Ask Cristina about this. HR is supposed to send something ahead of time.</td>
+      <td></td>
   </tr>
   <tr>
       <td scope="row">48 </td>
@@ -644,7 +644,7 @@ Onboarding Tasks for Talent and Ops
   <tr>
       <td scope="row">50</td>
       <td>&#9744;</td>
-      <td>Receive intro email to local office manager</td> 
+      <td>Receive intro email to office manager</td> 
       <td>Week before EOD</td> 
       <td>Ops<td> 
       <td></td> 
@@ -677,7 +677,7 @@ Onboarding Tasks for Talent and Ops
       <td scope="row">53</td>
       <td>&#9744;</td>
       <td>Add to Google Drive Week</td> 
-      <td>Before EOD</td> 
+      <td>Before EOD - Google Drive "can't add them until email is created </td> 
       <td>18F Staff </td>
       <td>Talent</td> 
       <td>Shawnique</td> 
@@ -723,7 +723,7 @@ Onboarding Tasks for Talent and Ops
       <td> Candidate </td>
       <td></td> 
       <td></td> 
-      <td>  On hub - provide room number + reminder - or add to the what to expect on Day 1 email </td>
+      <td> </td>
   </tr>
   <tr>
       <td scope="row">56</td>
@@ -731,10 +731,10 @@ Onboarding Tasks for Talent and Ops
       <td> Phone </td> 
       <td> First Day </td>
       <td> IT  </td>
-      <td> Candidate </td>
+      <td> Candidate will receive email when ready </td>
       <td></td>
       <td> </td>
-      <td>TBD based on convo with Talent, Ops, DevOps around division of duties</td>
+      <td></td>
   </tr>
   <tr>
       <td scope="row">57</td> 
@@ -745,7 +745,7 @@ Onboarding Tasks for Talent and Ops
       <td> Ops </td>
       <td> </td>
       <td> </td>
-      <td>  DevOps (or Ops) - Who configures laptop? Who sets homepage? </td>
+      <td> </td>
   </tr>
   <tr>     
       <td scope="row">58</td> 
