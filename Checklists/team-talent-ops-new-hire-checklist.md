@@ -649,7 +649,7 @@ Onboarding Tasks for Talent and Ops
       <td>Ops<td> 
       <td></td> 
       <td></td> 
-      <td>Send office guide</td>
+      <td>Send office guide to new hire</td>
   </tr>
   <tr>
       <td scope="row">51</td>

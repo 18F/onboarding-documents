@@ -89,7 +89,6 @@ This document serves as a list of tasks for you to complete with corresponding t
   <thead> 
     <tr> 
       <th scope="col"></th> 
-      
       <th scope="col">&#10003;</th>
       <th scope="col">Mandatory forms to complete</th>
       <th scope="col">Information and/or contacts</th>
@@ -97,7 +96,6 @@ This document serves as a list of tasks for you to complete with corresponding t
   </thead>
   <tr>
     <td scope="row">1</td> 
-    
     <td>&#9744;</td>
     <td>GSA Employee Benefits and Information</td>
     <td><a href="https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-employee-benefits-and-information">Info</a> | Email to <a href="mailto:gsaonboarding@gsa.gov">gsaonboarding@gsa.gov</a> and cc <a href="mailto:martha.sanchez-lowery@gsa.gov">Marty</a></td>
