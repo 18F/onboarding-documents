@@ -107,7 +107,7 @@ Buddy Checklist
     <tr>
     <td scope="row">11</td>
     <td>&#9744;</td>
-    <td>Double check to make sure they're on calendars and listservs/td>
+    <td>Double check to make sure they're on calendars and listservs</td>
     <td>End of first week</td>
     <td> Buddy</td>
     <td> New Hire</td>
