@@ -9,7 +9,7 @@ PIF --> 18F
       <th scope="col">&#10003;</th>
       <th scope="col">Task</th>
       <th scope="col">When</th>
-      <th scope="col">Who Has Information</th>
+      <th scope="col">Who Has Information / Completes Task</th>
       <th scope="col">Who Receives Information</th>
     </tr>
   </thead>

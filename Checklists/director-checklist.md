@@ -9,7 +9,7 @@ Director --> New Hire
       <th scope="col">&#10003;</th>
       <th scope="col">Task</th>
       <th scope="col">When (From Selection)</th>
-      <th scope="col">Who Has Information</th>
+      <th scope="col">Who Has Information / Completes Task</th>
       <th scope="col">Who Receives Information</th>
     </tr>
   </thead>
@@ -22,7 +22,7 @@ Director --> New Hire
     <td> Talent POC</td>
   </tr>
   <tr>
-    <td scope="row">1</td> 
+    <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Conveys team information to Talent POC</td>
     <td>Immediately</td>
@@ -30,7 +30,7 @@ Director --> New Hire
     <td> Talent POC</td>
   </tr>
   <tr>
-    <td scope="row">1</td> 
+    <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>Conveys location information to Talent POC</td>
     <td>Immediately</td>
