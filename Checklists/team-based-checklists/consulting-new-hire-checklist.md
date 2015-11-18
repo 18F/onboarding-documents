@@ -139,6 +139,51 @@ Team Checklists (New Hire)
     <td>First Week</td>
     <td>New Hire</td>
     <td></td>
-    <td>Instructions are <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/github-and-18f-site.md#1-setting-up-your-account">here</a></td>
+    <td><a href="https://pages.18f.gov/development-guide">Developer Guide</a></td>
+  </tr>
+  <tr>
+    <td scope="row">9</td> 
+    <td>&#9744;</td>
+    <td>Learn about guilds and working groups</td>
+    <td>Second Week</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>Guide is <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md">here</a></td>
+  </tr>
+  <tr>
+    <td scope="row">10</td> 
+    <td>&#9744;</td>
+    <td>Learn how time tracking works</td>
+    <td>Second Week</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>Guide is <a href="https://github.com/18F/handbook/blob/e3544e240f37f5df02906a5a4f73bd9e9a460015/articles/4-how-we-work/tools/tock.md">here</a></td>
+  </tr>
+   <tr>
+    <td scope="row">11</td> 
+    <td>&#9744;</td>
+    <td>Attend a project intake meeting and learn about the intake process</td>
+    <td>First month</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>Guide is <a href="https://github.com/18F/handbook/blob/4ea880b6bf5cf56067fa3d3cf3ca45655ed4a87b/articles/5-training-and-professional-development/seminars/project-intake-101.md">here</a></td>
+  </tr>
+    <tr>
+    <td scope="row">12</td> 
+    <td>&#9744;</td>
+    <td>Learn about Open Opportunities and pick a starter project</td>
+    <td>First month</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>Your facilitator will help you with this but you can <a href="https://openopps.digitalgov.gov/tasks?search=18F">browse the projects.</a></td>
+  </tr>
+   <tr>
+    <td scope="row">13</td> 
+    <td>&#9744;</td>
+    <td>Learn about Open Opportunities and pick a starter project</td>
+    <td>First month</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>Your facilitator will help you with this but you can <a href="https://openopps.digitalgov.gov/tasks?search=18F">browse the projects.</a></td>
   </tr>
 </table>
