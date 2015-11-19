@@ -143,10 +143,19 @@
   <tr>
     <td scope="row">14</td>
     <td>&#9744;</td>
-    <td>Get a walkthrough of <a href="https://cloud.gov">cloud.gov</a>.</td>
+    <td>Get a walkthrough of <a href="https://cloud.gov">cloud.gov</a></td>
     <td>First month</td>
     <td>cloud.gov team</td>
     <td></td>
-    <td><a href="https://cloud.gov">cloud.gov</a></td>
+    <td><a href="https://cloud.gov">cloud.gov</a> / #cloud-gov</td>
+  </tr>
+  <tr>
+    <td scope="row">15</td>
+    <td>&#9744;</td>
+    <td>Deploy to Cloud Foundry</td>
+    <td>First month</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>Tutorial <a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">here</a></td>
   </tr>
 </table>

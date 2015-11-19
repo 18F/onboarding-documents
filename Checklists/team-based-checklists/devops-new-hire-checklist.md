@@ -43,4 +43,13 @@ Since you are likely part of the Engineering team, go through the [developer che
     <td>New Hire</td>
     <td></td>
   </tr>
+  <tr>
+    <td scope="row">4</td>
+    <td>&#9744;</td>
+    <td>Set up Cloud Foundry locally</td>
+    <td>First month</td>
+    <td>New Hire</td>
+    <td>New Hire</td>
+    <td>Only applicable to Ops folks. See <a href="https://docs.cloud.gov/ops/creating-a-local-dev-environment-in-Virtual-Box/">instructions</a>.</td>
+  </tr>
 </table>
