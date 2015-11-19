@@ -28,7 +28,16 @@ Since you are likely part of the Engineering team, go through the [developer che
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Get a walkthrough of cloud.gov (Cloud Foundry, etc.) from an architecture perspective.</td>
+    <td>Get added to the [@18F/devops-staff](https://github.com/orgs/18F/teams/devops-staff) on GitHub</td>
+    <td>Day 1</td>
+    <td>#admins-slack</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">3</td>
+    <td>&#9744;</td>
+    <td>Get a walkthrough of cloud.gov (Cloud Foundry, etc.) from an architecture perspective</td>
     <td>First week</td>
     <td></td>
     <td>New Hire</td>
