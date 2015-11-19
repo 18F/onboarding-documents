@@ -51,6 +51,15 @@ Engineering Facilitator Checklist
     <td> New Hire</td>
     <td></td>
   </tr>
+    <tr>
+    <td scope="row">3</td> 
+    <td>&#9744;</td>
+    <td>Intro them to their small engineering group via Slack</td>
+    <td>First Week</td>
+    <td> Engineering Facilitator</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
    <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
