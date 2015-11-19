@@ -1,5 +1,4 @@
-
-Team Checklists (New Hire)
+Consulting New Employee Checklist
 =========================
 
 
@@ -36,12 +35,21 @@ Team Checklists (New Hire)
     <td><a href="https://hub.18f.gov/consulting/onboarding/">Consulting Team Onboarding Guide</a></td>
   </tr>
   <tr>
-    <td scope="row">1</td> 
+    <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>Attend 18FC weekly staff meeting</td>
     <td>Tuesday from 2-3 ET</td>
     <td></td>
     <td> New Hire</td>
     <td>Information in the <a href="https://hub.18f.gov/consulting/onboarding/">Consulting Team Onboarding Guide</a></td>
+  </tr>
+   <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Read through the project briefs for current 18F Consulting projects</td>
+    <td>First two weeks</td>
+    <td></td>
+    <td> New Hire</td>
+    <td>Information in the <a href="https://drive.google.com/drive/u/1/folders/0B497BYqz8M4-fnNZbmN6TGdhN1MtYTZHVjI4d3M0aXVCMkYxdExpTFlCbzVLV0dacVVmVlU">Google Drive</a></td>
   </tr>
 </table>

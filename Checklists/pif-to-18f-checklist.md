@@ -24,9 +24,9 @@ PIF --> 18F
   <tr>
     <td scope="row">2</td>
     <td>&#9744;</td>
-    <td>Talent fills out SQA Letter if necessary</td>
+    <td>Nathan fills out SQA Letter if necessary</td>
     <td>Month 9/10 of PIF year</td>
-    <td> Talent</td>
+    <td> Nathan / PIF staff </td>
     <td> Talent Team </td>
   </tr>
   <tr>

@@ -1,5 +1,6 @@
 
-### Dev / Engineering New Hire
+### Dev / Engineering New Employee Checklist
+========================================
 
 <table>
   <thead> 
