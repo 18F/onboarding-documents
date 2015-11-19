@@ -51,8 +51,26 @@ Engineering Facilitator Checklist
     <td> New Hire</td>
     <td></td>
   </tr>
-   <tr>
+  <tr>
     <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Intro them to their small engineering group via Slack</td>
+    <td>First Week</td>
+    <td> Engineering Facilitator</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>Invite them to the facilitator group meeting</td>
+    <td>First week</td>
+    <td>Engineering Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Set a meeting to create goals and OKRs</td>
     <td>First Month</td>
@@ -60,7 +78,7 @@ Engineering Facilitator Checklist
     <td> New Hire</td>
     <td></td>
   <tr>
-    <td scope="row">5</td> 
+    <td scope="row">7</td> 
     <td>&#9744;</td>
     <td>Give them a clear mentor on their project work </td>
     <td>First month</td>
@@ -69,7 +87,7 @@ Engineering Facilitator Checklist
     <td></td>
   </tr>
   <tr>
-    <td scope="row">6</td> 
+    <td scope="row">8</td> 
     <td>&#9744;</td>
     <td>Give them a clear mentor on their specialty, likely outside of project  </td>
     <td>First month</td>
@@ -78,7 +96,7 @@ Engineering Facilitator Checklist
     <td></td>
   </tr>
    <tr>
-    <td scope="row">7</td> 
+    <td scope="row">9</td> 
     <td>&#9744;</td>
     <td>Make sure the project mentor helps them deploy a change in the first two days of being on that project  </td>
     <td>First month</td>
@@ -87,7 +105,16 @@ Engineering Facilitator Checklist
     <td></td>
   </tr>
     <tr>
-    <td scope="row">8</td> 
+    <td scope="row">10</td> 
+    <td>&#9744;</td>
+    <td>File an issue in the DevOps repo for AWS onboarding</td>
+    <td>First month</td>
+    <td>Engineering Facilitator</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td scope="row">11</td> 
     <td>&#9744;</td>
     <td>Send link to the engineering team talk signup and invite them to put a talk down </td>
     <td>First month</td>
@@ -95,13 +122,5 @@ Engineering Facilitator Checklist
     <td> New Hire</td>
     <td></td>
   </tr>
-    <tr>
-    <td scope="row">9</td> 
-    <td>&#9744;</td>
-    <td>Invite them to the facilitator group meeting</td>
-    <td>First month</td>
-    <td>Engineering Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
+    
  </table>
