@@ -2,6 +2,8 @@
 Director --> New Hire
 ============
 
+## All Directors
+
 <table>
   <thead> 
     <tr> 
@@ -70,3 +72,65 @@ Director --> New Hire
     <td> New Hire</td>
   </tr>
 </table>
+
+## Engineering Team Director
+
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">When (From Selection)</th>
+      <th scope="col">Who Has Information / Completes Task</th>
+      <th scope="col">Who Receives Information</th>
+      <th scope="col">Where Information Lives / Notes</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <td>&#9744;</td>
+    <td>Assign them and introduce them to their engineering team facilitator and Team via Slack</td>
+    <td>First Week</td>
+    <td>Supervisor</td>
+    <td>Engineering Team </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <td>&#9744;</td>
+    <td>Send them the staff skills spreadsheet and ask them to fill it out </td>
+    <td>Second week/<td>
+    <td> Supervisor</td>
+    <td> Talent POC</td>
+    <td><a href="https://docs.google.com/spreadsheets/u/1/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0">Staff Skills</a></td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <td>&#9744;</td>
+    <td>Have an introductory check in with them</td>
+    <td>First Week</td>
+    <td> Supervisor</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Get their feedback on the hiring process</td>
+    <td>First Month</td>
+    <td> Supervisor</td>
+    <td> New Hire</td>
+    <td></td>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>If candidate is comfortable, set them up doing interviews with a veteran interviewer </td>
+    <td>First month</td>
+    <td> Supervisor</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  </tr>
+  <tr>
