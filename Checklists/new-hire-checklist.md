@@ -241,13 +241,13 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Read up on GSA and 18F orientation.</td>
-    <td>[Orientation and GSA overview]()</td>
+    <td><a href="https://handbook.18f.gov/classes">Class descriptions</a> and <a href="https://handbook.18f.gov/onboarding-schedule">Orientation schedule</a></td>
   </tr>
    <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
-    <td>Send bio (3-5 lines), headshot, and preferred gender pronoun to your buddy.</td>
-    <td>[info]() | Send to buddy</td>
+    <td>Send bio (3-5 lines) and preferred gender pronoun to your buddy.</td>
+    <td> Email to your buddy. The bio will be sent around to team to introduce you.</td>
   </tr>
  </table>
 
@@ -350,7 +350,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>Orientation classes begin. You will be taking a variety of Slack-based classes in the #18f-classes channel with your cohort</td>
-    <td>#18F-Classes | Class Schedule and Checklist</td>
+    <td>Classes will take place in <a href="https://18f.slack.com/archives/18f-classes">#18F-Classes</a> | <a href="https://handbook.18f.gov/classes">Class Schedule</a> and <a href="https://www.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com&ctz=America/New_York">Google Calendar Schedule of Classes</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
@@ -362,31 +362,31 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>Double check to make sure you have access to 18F Calendars.</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/google-calendar">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Read your Office Guide to learn more about where you work</td>
-    <td>Instructions</td>
+    <td>Pick your office: <a href="https://handbook.18f.gov/chicago">Chicago</a> <a href="https://handbook.18f.gov/distributed">Distributed</a> <a href="https://handbook.18f.gov/new-york-city">New York City</a> <a href="https://handbook.18f.gov/san-francisco">San Francisco</a> <a href="https://handbook.18f.gov/washington-dc">Washington DC</a></td>
   </tr>
   <tr>
     <td scope="row">5</td> 
     <td>&#9744;</td>
     <td>Attend 18F’s weekly all-hands meeting</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/distributed/#listen-to-and-participate-in-the-weekly-tuesday-all-hands-meeting">Instructions for distributed employees.</a> Other employees should ask their in-office buddy.</td>
   </tr>
   <tr>
     <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Fill out transit subsidy, if you commute via public transportation to work.</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/gsa-tools-equipment-and-transit/#transit-benefits">Instructions</a></td>
   </tr>
     <tr>
     <td scope="row">7</td> 
     <td>&#9744;</td>
     <td>Make sure your Slack avatar and Google avatar contain a picture</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/slack/#rules">Slack Instructions</a> and <a href="https://support.google.com/mail/answer/35529?hl=en">Google instructions</a></td>
   </tr>
  </table>
 
