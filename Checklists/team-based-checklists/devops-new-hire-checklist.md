@@ -37,6 +37,15 @@ Since you are likely part of the Engineering team, go through the [developer che
   <tr>
     <td scope="row">3</td>
     <td>&#9744;</td>
+    <td>Subscribe to <a href="https://calendar.google.com/calendar/embed?src=gsa.gov_0samf7guodi7o2jhdp0ec99aks@group.calendar.google.com&ctz=America/Los_Angeles">the cloud.gov team calendar</a> (click the <code>+</code> in the bottom right)</td>
+    <td>Day 1</td>
+    <td></td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">4</td>
+    <td>&#9744;</td>
     <td>Get a walkthrough of cloud.gov (Cloud Foundry, etc.) from an architecture perspective</td>
     <td>First week</td>
     <td></td>
@@ -44,7 +53,7 @@ Since you are likely part of the Engineering team, go through the [developer che
     <td></td>
   </tr>
   <tr>
-    <td scope="row">4</td>
+    <td scope="row">5</td>
     <td>&#9744;</td>
     <td>Set up Cloud Foundry locally</td>
     <td>First month</td>
