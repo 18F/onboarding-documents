@@ -450,7 +450,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">8</td> 
     <td>&#9744;</td>
     <td>Write your bio and submit a picture for the 18F website</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/github-and-18f-site/#your-bio-and-photo">Instructions</a></td>
   </tr>
  </table>
 
@@ -469,7 +469,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>Fill out OGE 450</td>
-    <td>Team dependent, check with your director. <a href="handbook.18f.gov/hatch-act-foia-ethics-code-of-conduct/#new-here-youll-need-to-fill-out-these-forms">Instructions.</a></td>
+    <td>Team dependent, check with your director. <a href="https://handbook.18f.gov/hatch-act-foia-ethics-code-of-conduct/#new-here-youll-need-to-fill-out-these-forms">Instructions.</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
@@ -493,48 +493,48 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">5</td> 
     <td>&#9744;</td>
     <td>Confirm CHRIS account</td>
-    <td>This may take 4-6 weeks. Instructions.</td>
+    <td>This may take 4-6 weeks. <a href="https://handbook.18f.gov/gsa-tools-equipment-and-transit/#chris">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Sign into Employee Express</td>
-    <td>This is available after your first paycheck. Instructions.</td>
+    <td>This is available after your first paycheck. <a href="handbook.18f.gov/gsa-tools-equipment-and-transit/#employee-express">Instructions.</a></td>
   </tr>
   <tr>
     <td scope="row">7</td> 
     <td>&#9744;</td>
     <td>Confirm OLU (Online Learning University) account.</td>
-    <td>GSA’s mandatory training for employees. This will be available after your CHRIS account is set up. Instructions.</td>
+    <td>GSA’s mandatory training for employees. This will be available after your <a href="https://handbook.18f.gov/gsa-tools-equipment-and-transit/#chris">CHRIS account</a> is set up.</td>
   </tr>
   <tr>
     <td scope="row">8</td> 
     <td>&#9744;</td>
     <td>Check to make sure all of your submitted benefits information is correct.</td>
-    <td>Instructions.</td>
+    <td><a href="https://handbook.18f.gov/benefits">Benefits information<a/></td>
   </tr>
   <tr>
     <td scope="row">9</td> 
     <td>&#9744;</td>
     <td>Take travel training so that you can travel.</td>
-    <td>Instructions.</td>
+    <td><a href="https://handbook.18f.gov/travel-101">Instructions.</a></td>
   </tr>
   <tr>
     <td scope="row">10</td> 
     <td>&#9744;</td>
     <td>Complete mandatory OLU trainings.</td>
-    <td>Instructions | You must have completed step 5. to do this step, so the process may take 4-6 weeks.</td>
+    <td><a href="https://handbook.18f.gov/professional-development-and-training/#mandatory-training">Instructions</a> | You must have completed step 5. to do this step, so the process may take 4-6 weeks.</td>
   </tr>
   <tr>
     <td scope="row">11</td> 
     <td>&#9744;</td>
     <td>Fill out your Individual Development Plan.</td>
-    <td>Instructions. This will allow you to take trainings and classes.</td>
+    <td><a href="https://handbook.18f.gov/professional-development-and-training/#individual-development-plans">Instructions.</a> This will allow you to take external trainings and classes.</td>
   </tr>
   <tr>
     <td scope="row">12</td> 
     <td>&#9744;</td>
     <td>Learn about 18F Offsites</td>
-    <td>Information</td>
+    <td>Ask in Slack when the next offsite is: "When is the next offsite?" (Slackbot should respond.) And if you want to make a message for Slackbot to respond, follow the instructions <a href="https://18f.slack.com/customize/slackbot">here</a></td>
   </tr>
  </table>

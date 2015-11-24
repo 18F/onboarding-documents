@@ -71,6 +71,14 @@ Director --> New Hire
     <td>Supervisor</td>
     <td> New Hire</td>
   </tr>
+    <tr>
+    <td scope="row">8</td>
+    <td>&#9744;</td>
+    <td>Explain billable hours - emphasize your policy re: billable hours. (Many new staff members will need to be reassured on this point.</td>
+    <td>During your coffee chat</td>
+    <td>Supervisor</td>
+    <td> New Hire</td>
+  </tr>
 </table>
 
 ## Engineering Team Director
