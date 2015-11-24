@@ -335,7 +335,7 @@ This document serves as a list of tasks for you to complete with corresponding t
   </tr>
  </table>
 
- ### SECOND DAY
+### SECOND DAY
 
  <table>
   <thead> 
