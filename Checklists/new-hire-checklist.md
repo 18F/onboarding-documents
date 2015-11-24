@@ -11,48 +11,48 @@ As part of the new employee onboarding process, we created this checklist to ass
 ### Key websites
 
 <table>
-	<tr>
-		<td>18F Handbook</td>
-		<td>https://18f.handbook.gov</td>
-	</tr>
-	<tr>
-		<td>Leave and Earnings Statement</td>
-		<td>https://www.employeeexpress.gov</td>
-	</tr>
-		<tr>
-		<td>GSA Insite</td>
-		<td>https://insite.gsa.gov</td>
-	</tr>
+  <tr>
+    <td>18F Handbook</td>
+    <td>https://18f.handbook.gov</td>
+  </tr>
+  <tr>
+    <td>Leave and Earnings Statement</td>
+    <td>https://www.employeeexpress.gov</td>
+  </tr>
+    <tr>
+    <td>GSA Insite</td>
+    <td>https://insite.gsa.gov</td>
+  </tr>
 </table>
 
 ### Your federal benefits 
 
 <table>
-	<tr>
-		<td>Health and Life Insurance</td>
-		<td>https://www.opm.gov/insure</td>
-	</tr>
-	<tr>
-		<td>Retirement Planning</td>
-		<td>https://www.opm.gov/retirement-services/</td>
-	</tr>
-	<tr>
-		<td>Thrift Savings Plan (TSP)</td>
-		<td>http://www.tsp.gov/</td>
-	</tr>
-	<tr>
-		<td>Flexible Spending Account</td>
-		<td>http://www.fsafeds.gov</td>
-	</tr>
-	<tr>
-		<td>Dental and Vision Insurance</td>
-		<td>http://www.benefeds.com
-		</td>
-	</tr>
-	<tr>
-		<td>Long Term Care Insurance</td>
-		<td>http://www.ltcfeds.com</td>
-	</tr>
+  <tr>
+    <td>Health and Life Insurance</td>
+    <td>https://www.opm.gov/insure</td>
+  </tr>
+  <tr>
+    <td>Retirement Planning</td>
+    <td>https://www.opm.gov/retirement-services/</td>
+  </tr>
+  <tr>
+    <td>Thrift Savings Plan (TSP)</td>
+    <td>http://www.tsp.gov/</td>
+  </tr>
+  <tr>
+    <td>Flexible Spending Account</td>
+    <td>http://www.fsafeds.gov</td>
+  </tr>
+  <tr>
+    <td>Dental and Vision Insurance</td>
+    <td>http://www.benefeds.com
+    </td>
+  </tr>
+  <tr>
+    <td>Long Term Care Insurance</td>
+    <td>http://www.ltcfeds.com</td>
+  </tr>
 </table>
 
 ### Human resources (HR)
@@ -420,31 +420,31 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>Set up GitHub account.</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/github">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Set up VPN.</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/networks#virtual-networks"Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">5</td> 
     <td>&#9744;</td>
     <td>Set up printer</td>
-    <td>Instructions</td>
+    <td>Instructions are in your office guide.</td>
   </tr>
   <tr>
     <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Sign up for listservs that interest you.</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/intro-to-product-and-open-source/#listservs-and-communities">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">7</td> 
     <td>&#9744;</td>
     <td>Meet with your director</td>
-    <td>Instructions</td>
+    <td>They'll likely schedule this with you during your first week.</td>
   </tr>
   <tr>
     <td scope="row">8</td> 
@@ -469,25 +469,25 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>Fill out OGE 450</td>
-    <td>Team dependent, check with your director. Instructions.</td>
+    <td>Team dependent, check with your director. <a href="handbook.18f.gov/hatch-act-foia-ethics-code-of-conduct/#new-here-youll-need-to-fill-out-these-forms">Instructions.</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Schedule a virtual tea with two coworkers</td>
-    <td>Instructions.</td>
+    <td>You can use one of the video tools you've learned about: <a href="https://handbook.18f.gov/acano">Acano</a> or <a href="https://handbook.18f.gov/google-hangouts">Google Hangouts</a>or <a href="https://handbook.18f.gov/appearin">Appear.in</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
     <td>Receive necessary software licenses</td>
-    <td>Instructions.</td>
+    <td>Please read the instructions for <a href="https://github.com/18F/handbook/search?utf8=%E2%9C%93&q=license">specific software licenses.</a> If yours isn't on that list, ask in #devops and then in #teamops</td>
   </tr>
   <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Learn about 18F Org Chart and 18F’s relation to OCSIT</td>
-    <td>Instructions.</td>
+    <td><a href="https://handbook.18f.gov/org-chart">Org Chart</a> | Relationship to OCSIT </td>
   </tr>
   <tr>
     <td scope="row">5</td> 
