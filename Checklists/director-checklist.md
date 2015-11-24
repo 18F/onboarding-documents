@@ -142,3 +142,99 @@ Director --> New Hire
   </tr>
   </tr>
   <tr>
+
+## Product Team Director
+
+<table>
+  <thead> 
+    <tr> 
+      <th scope="col"></th> 
+      <th scope="col">&#10003;</th>
+      <th scope="col">Task</th>
+      <th scope="col">When (From Selection)</th>
+      <th scope="col">Who Has Information / Completes Task</th>
+      <th scope="col">Who Receives Information</th>
+      <th scope="col">Where Information Lives / Notes</th>
+    </tr>
+  </thead>
+  <tr>
+    <td scope="row">1</td> 
+    <td>&#9744;</td>
+    <td>Send out welcome email to new hire</td>
+    <td>First Week</td>
+    <td>Supervisor</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">2</td> 
+    <td>&#9744;</td>
+    <td>Schedule 1:1 with new hire </td>
+    <td>First week/<td>
+    <td> Supervisor</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">3</td> 
+    <td>&#9744;</td>
+    <td>Add to product team coffee</td>
+    <td>First Week</td>
+    <td> Anna </td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Add to 1:1 team coffee rotation</td>
+    <td>First Week</td>
+    <td>Anna</td>
+    <td> New Hire</td>
+    <td></td>
+  <tr>
+    <td scope="row">5</td> 
+    <td>&#9744;</td>
+    <td>Share PM Guide</td>
+    <td>First week</td>
+    <td> Anna</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">6</td> 
+    <td>&#9744;</td>
+    <td>Performance Plans / IDPs</td>
+    <td>Three months in</td>
+    <td>Josh</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">7</td> 
+    <td>&#9744;</td>
+    <td>Add to team Trello board</td>
+    <td></td>
+    <td>Anna</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">8</td> 
+    <td>&#9744;</td>
+    <td>Add to org. chart</td>
+    <td></td>
+    <td>Anna</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">8</td> 
+    <td>&#9744;</td>
+    <td>Add to #product, #product-team-private and #product-team</td>
+    <td></td>
+    <td>Anna</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+</table>

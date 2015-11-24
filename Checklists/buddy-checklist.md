@@ -93,7 +93,7 @@ Buddy Checklist
     <td>Second day </td>
     <td> Buddy</td>
     <td> New Hire</td>
-    <td>Sometimes the #teamops member in the office gives the tour instead, as in SF. Also make sure they have a copy of their <a href="https://github.com/18F/handbook/tree/staging/articles/2-about-us/offices">office guide</a></td>
+    <td>Sometimes the #teamops member in the office gives the tour instead, as in SF. Also make sure they have a copy of their office guide. Pick your office: <a href="https://handbook.18f.gov/chicago">Chicago</a> <a href="https://handbook.18f.gov/distributed">Distributed</a> <a href="https://handbook.18f.gov/new-york-city">New York City</a> <a href="https://handbook.18f.gov/san-francisco">San Francisco</a> <a href="https://handbook.18f.gov/washington-dc">Washington DC</a></td>
   </tr>
   <tr>
     <td scope="row">10</td>
@@ -104,26 +104,17 @@ Buddy Checklist
     <td> New Hire</td>
     <td>Ask in #teamops or consult #design if you need specific licenses</td>
   </tr>
-  <tr>
-    <td scope="row">11</td>
-    <td>&#9744;</td>
-    <td>Make sure they have necessary software and licenses</td>
-    <td>Day 3 </td>
-    <td> Buddy</td>
-    <td> New Hire</td>
-    <td>Ask in #teamops or consult #design if you need specific licenses</td>
-  </tr>
     <tr>
-    <td scope="row">12</td>
+    <td scope="row">11</td>
     <td>&#9744;</td>
     <td>Double check to make sure they're on calendars and listservs</td>
     <td>End of first week</td>
     <td> Buddy</td>
     <td> New Hire</td>
-    <td>List of <a href="https://hub.18f.gov/private/google-calendar/">calendars</a> and <a href="https://hub.18f.gov/private/listservs/">listservs</a></td>
+    <td>List of <a href="https://handbook.18f.gov/google-calendar">calendars</a> and <a href="https://handbook.18f.gov/intro-to-product-and-open-source/#listservs-and-communities">listservs</a></td>
   </tr>
     <tr>
-    <td scope="row">13</td>
+    <td scope="row">12</td>
     <td>&#9744;</td>
     <td>Invite them to attend project intake</td>
     <td>End of First month </td>
