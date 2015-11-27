@@ -48,7 +48,7 @@
     <td>First week</td>
     <td>New Hire</td>
     <td></td>
-    <td>You will be signed up for this. Check with your director for a timeline.</td>
+    <td>You will be given an account. Won't apply to everyone – check with your director or ask in #devops. https://18f.gsa.gov/hub/aws-access/</td>
   </tr>
    <tr>
     <td scope="row">4</td>
@@ -89,7 +89,7 @@
   <tr>
     <td scope="row">8</td>
     <td>&#9744;</td>
-    <td>Add yourself to the GitHub organization</td>
+    <td>Get yourself added to the GitHub organization</td>
     <td>First Week</td>
     <td>New Hire</td>
     <td></td>
@@ -140,14 +140,22 @@
     <td></td>
     <td>Your facilitator will help you with this but you can <a href="https://openopps.digitalgov.gov/tasks?search=18F">browse the projects.</a></td>
   </tr>
-   <tr>
-
-  </tr>
-  <td scope="row">14</td>
+  <tr>
+    <td scope="row">14</td>
     <td>&#9744;</td>
-    <td>Sign up for peer mentorship (or volunteer to be a mentor.</td>
+    <td>Get a walkthrough of <a href="https://cloud.gov">cloud.gov</a></td>
+    <td>First month</td>
+    <td>cloud.gov team</td>
+    <td></td>
+    <td><a href="https://cloud.gov">cloud.gov</a> / #cloud-gov</td>
+  </tr>
+  <tr>
+    <td scope="row">15</td>
+    <td>&#9744;</td>
+    <td>Deploy to Cloud Foundry</td>
     <td>First month</td>
     <td>New Hire</td>
     <td></td>
-    <td>If you would like a mentor or would like to be a mentor, you can sign up <a href="https://docs.google.com/spreadsheets/d/1Aiht9JtHMS3lUTozrVshhtrjUXANu2BhvHDghFSXzKM/edit#gid=0">here.</a></td>
+    <td>Tutorial <a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">here</a></td>
+  </tr>
 </table>
