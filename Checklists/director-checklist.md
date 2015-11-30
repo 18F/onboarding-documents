@@ -140,8 +140,7 @@ Director --> New Hire
     <td> New Hire</td>
     <td></td>
   </tr>
-  </tr>
-  <tr>
+</table>
 
 ## Product Team Director
 

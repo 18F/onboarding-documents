@@ -350,13 +350,13 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>Orientation classes begin. You will be taking a variety of Slack-based classes in the #18f-classes channel with your cohort</td>
-    <td>Classes will take place in <a href="https://18f.slack.com/archives/18f-classes">#18F-Classes</a> | <a href="https://handbook.18f.gov/classes">Class Schedule</a> and <a href="https://www.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com&ctz=America/New_York">Google Calendar Schedule of Classes</a></td>
+    <td>Classes will take place in <a href="https://18f.slack.com/archives/18f-classes">#18F-Classes</a> | <a href="https://handbook.18f.gov/classes">Class Schedule</a> and <a href="https://www.google.com/calendar/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94%40group.calendar.google.com&ctz=America/New_York">Google Calendar Schedule of Classes</a> and Class Checklist</td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Make sure your Macbook is secure</td>
-    <td>Instructions</td>
+    <td><a href="handbook.18f.gov/equipment/#laptop">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
@@ -368,7 +368,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Read your Office Guide to learn more about where you work</td>
-    <td>Pick your office: <a href="https://handbook.18f.gov/chicago">Chicago</a> <a href="https://handbook.18f.gov/distributed">Distributed</a> <a href="https://handbook.18f.gov/new-york-city">New York City</a> <a href="https://handbook.18f.gov/san-francisco">San Francisco</a> <a href="https://handbook.18f.gov/washington-dc">Washington DC</a></td>
+    <td><a href="https://handbook.18f.gov/offices">Office Guides</a></td>
   </tr>
   <tr>
     <td scope="row">5</td> 
@@ -408,13 +408,13 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>After receiving your work phone, set up 2FA.</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/equipment/#iphone">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Pick up badge</td>
-    <td>Instructions</td>
+    <td><a href="https://handbook.18f.gov/equipment/#badge">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
@@ -426,13 +426,13 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Set up VPN.</td>
-    <td><a href="https://handbook.18f.gov/networks#virtual-networks"Instructions</a></td>
+    <td><a href="https://handbook.18f.gov/networks#virtual-networks">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">5</td> 
     <td>&#9744;</td>
     <td>Set up printer</td>
-    <td>Instructions are in your office guide.</td>
+    <td>Instructions are in your <a href="https://handbook.18f.gov/offices">office guide.</a></td>
   </tr>
   <tr>
     <td scope="row">6</td> 
@@ -487,7 +487,7 @@ This document serves as a list of tasks for you to complete with corresponding t
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Learn about 18F Org Chart and 18F’s relation to OCSIT</td>
-    <td><a href="https://handbook.18f.gov/org-chart">Org Chart</a> | Relationship to OCSIT </td>
+    <td><a href="https://handbook.18f.gov/org-chart">Org Chart</a> | <a href="https://handbook.18f.gov/welcome-from-phaedra-and-aaron">Relationship to OCSIT</a> </td>
   </tr>
   <tr>
     <td scope="row">5</td> 
