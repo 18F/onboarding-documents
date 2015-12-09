@@ -168,10 +168,10 @@ Director --> New Hire
   <tr>
     <td scope="row">2</td> 
     <td>&#9744;</td>
-    <td>Schedule 1:1 with new hire </td>
-    <td>First week/<td>
-    <td> Supervisor</td>
-    <td> New Hire</td>
+    <td>Schedule 1:1 with new hire</td>
+    <td>First Week</td>
+    <td>Supervisor</td>
+    <td>New Hire</td>
     <td></td>
   </tr>
   <tr>
@@ -179,7 +179,7 @@ Director --> New Hire
     <td>&#9744;</td>
     <td>Add to product team coffee</td>
     <td>First Week</td>
-    <td> Anna </td>
+    <td> Supervisor or delegate </td>
     <td> New Hire</td>
     <td></td>
   </tr>
@@ -188,7 +188,7 @@ Director --> New Hire
     <td>&#9744;</td>
     <td>Add to 1:1 team coffee rotation</td>
     <td>First Week</td>
-    <td>Anna</td>
+    <td>Supervisor or delegate</td>
     <td> New Hire</td>
     <td></td>
   <tr>
@@ -196,43 +196,52 @@ Director --> New Hire
     <td>&#9744;</td>
     <td>Share PM Guide</td>
     <td>First week</td>
-    <td> Anna</td>
+    <td> Supervisor or delegate</td>
     <td> New Hire</td>
     <td></td>
   </tr>
-  <tr>
+ <tr>
     <td scope="row">6</td> 
     <td>&#9744;</td>
-    <td>Performance Plans / IDPs</td>
-    <td>Three months in</td>
-    <td>Josh</td>
+    <td>Add to org. chart</td>
+    <td>First Week</td>
+    <td>Supervisor or delegate</td>
     <td> New Hire</td>
     <td></td>
   </tr>
   <tr>
     <td scope="row">7</td> 
     <td>&#9744;</td>
+    <td>Add to #product, #product-team-private and #product-team</td>
+    <td>First Week</td>
+    <td>Supervisor or delegate</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td scope="row">8</td> 
+    <td>&#9744;</td>
+    <td>Assign Product team member to shadow/pair with</td>
+    <td>Second week/<td>
+    <td>Supervisor</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">9</td> 
+    <td>&#9744;</td>
+    <td>Performance Plans / IDPs</td>
+    <td>Three months in</td>
+    <td>Supervisor</td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td scope="row">10</td> 
+    <td>&#9744;</td>
     <td>Add to team Trello board</td>
     <td></td>
-    <td>Anna</td>
-    <td> New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td scope="row">8</td> 
-    <td>&#9744;</td>
-    <td>Add to org. chart</td>
-    <td></td>
-    <td>Anna</td>
-    <td> New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td scope="row">8</td> 
-    <td>&#9744;</td>
-    <td>Add to #product, #product-team-private and #product-team</td>
-    <td></td>
-    <td>Anna</td>
+    <td>Supervisor or delegate</td>
     <td> New Hire</td>
     <td></td>
   </tr>
