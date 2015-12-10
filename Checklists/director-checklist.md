@@ -221,8 +221,8 @@ Director --> New Hire
     <tr>
     <td scope="row">8</td> 
     <td>&#9744;</td>
-    <td>Assign Product team member to shadow/pair with</td>
-    <td>Second week/<td>
+    <td>Assign Product team member to shadow & pair with</td>
+    <td>Second week<td>
     <td>Supervisor</td>
     <td>New Hire</td>
     <td></td>
