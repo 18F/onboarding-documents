@@ -85,6 +85,8 @@ This document serves as a list of tasks for you to complete with corresponding t
 
 ## Forms to fill out
 
+_Note: If you use a Mac, you can use Preview to [add your signature](https://support.apple.com/kb/PH20226?locale=en_US) to PDFs._
+
 <table>
   <thead> 
     <tr> 
