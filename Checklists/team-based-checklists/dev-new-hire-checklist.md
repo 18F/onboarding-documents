@@ -158,4 +158,13 @@
     <td></td>
     <td>Tutorial <a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">here</a></td>
   </tr>
+  <tr>
+    <td scope="row">16</td>
+    <td>&#9744;</td>
+    <td>Complete performance plan meeting</td>
+    <td>First month</td>
+    <td>Director and facilitator</td>
+    <td>New Hire</td>
+    <td><a href="https://docs.google.com/document/d/1dRsoHGPv12IRjlWHl1uW63pMEad15GcmhP2m7jyU27M/edit">Performance plan</a></td>
+  </tr>
 </table>
