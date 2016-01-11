@@ -13,7 +13,7 @@ As part of the new employee onboarding process, we created this checklist to ass
 <table>
   <tr>
     <td>18F Handbook</td>
-    <td>https://18f.handbook.gov</td>
+    <td>https://handbook.18f.gov</td>
   </tr>
   <tr>
     <td>Leave and Earnings Statement</td>
