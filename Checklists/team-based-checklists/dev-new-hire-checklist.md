@@ -77,6 +77,15 @@
     <td></td>
   </tr>
   <tr>
+    <!-- not dev-specific -->
+    <td>&#9744;</td>
+    <td>Add them to <a href="https://18f.float.com">Float</a></td>
+    <td>First Week</td>
+    <td>Director</td>
+    <td>New Hire</td>
+    <td>Ask in #float-help if you need assistance.</td>
+  </tr>
+  <tr>
     <td>&#9744;</td>
     <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/github-and-18f-site.md#1-setting-up-your-account">Get yourself added to the GitHub organization</a></td>
     <td>First Week</td>
