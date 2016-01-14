@@ -42,7 +42,7 @@ Director --> New Hire
   <tr>
     <td scope="row">4</td>
     <td>&#9744;</td>
-    <td>Writes congrats email to candidate and requests references and documents / cc's Leah Glitter + Talent POC on email</td>
+    <td>Writes congrats email to candidate and requests references and documents / cc's Leah Gitter + Talent POC on email</td>
     <td>Within 3 days</td>
     <td> Supervisor</td>
     <td> Talent POC + Leah</td>
