@@ -34,7 +34,7 @@
     <td>First Day</td>
     <td>Facilitator</td>
     <td>New Hire</td>
-    <td></td>
+    <td>Go through and invite them to any relevant upcoming/recurring events (e.g. the <a href="https://github.com/18F/tech-talks">tech talks</a>).</td>
   </tr>
   <tr>
     <td>&#9744;</td>
@@ -126,6 +126,14 @@
   </tr>
   <tr>
     <td>&#9744;</td>
+    <td>Set up recurring 1:1 meetings with them</td>
+    <td>First Week</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
     <td>Have an introductory check in with them</td>
     <td>First Week</td>
     <td>Director</td>
@@ -207,7 +215,7 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Send link to the <a href="https://github.com/18F/tech-talks">engineering team talk signup</a> and invite them to put a talk down</td>
+    <td>Send link to the <a href="https://github.com/18F/tech-talks">tech talk signup</a> and invite them to put a talk down</td>
     <td>First Month</td>
     <td>Facilitator</td>
     <td>New Hire</td>
