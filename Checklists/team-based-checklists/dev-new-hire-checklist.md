@@ -5,7 +5,6 @@
 <table>
   <thead>
     <tr>
-      <th scope="col"></th>
       <th scope="col">&#10003;</th>
       <th scope="col">Task</th>
       <th scope="col">When</th>
@@ -15,7 +14,6 @@
     </tr>
   </thead>
   <tr>
-    <td scope="row">1</td>
     <td>&#9744;</td>
     <td>Make sure you're added to the Engineering team listserv and team calendar</td>
     <td>Day 1</td>
@@ -24,7 +22,6 @@
     <td></td>
   </tr>
   <tr>
-    <td scope="row">2</td>
     <td>&#9744;</td>
     <td>Receive introduction to your team facilitator</td>
     <td>First Week</td>
@@ -33,7 +30,6 @@
     <td></td>
   </tr>
   <tr>
-    <td scope="row">3</td>
     <td>&#9744;</td>
     <td>Give feedback on the hiring process by DMing your director</td>
     <td>First week</td>
@@ -42,7 +38,6 @@
     <td></td>
   </tr>
   <tr>
-    <td scope="row">4</td>
     <td>&#9744;</td>
     <td>Take AWS onboarding</td>
     <td>First week</td>
@@ -51,7 +46,6 @@
     <td>You will be given an account. Won't apply to everyone – check with your director or ask in #devops. https://18f.gsa.gov/hub/aws-access/</td>
   </tr>
    <tr>
-    <td scope="row">4</td>
     <td>&#9744;</td>
     <td>Think about 3 things you would like to learn over the next three months.</td>
     <td>Second week</td>
@@ -60,7 +54,6 @@
     <td>You will talk to your facilitator about this.</td>
   </tr>
    <tr>
-    <td scope="row">5</td>
     <td>&#9744;</td>
     <td>Read abou the Engineering Team and learn about how the team works</td>
     <td>First week</td>
@@ -69,7 +62,6 @@
     <td><a href="https://docs.google.com/document/d/1jtp6ZjWKZPvu1VhrQc8r7z6U3InxbtL5_baIECtPLkQ/edit#heading=h.525qbp2k2unh">Welcome to the Engineering Team!</a></td>
   </tr>
   <tr>
-    <td scope="row">6</td>
     <td>&#9744;</td>
     <td>Keep a journal about your biggest hurdles and sources of confusion.</td>
     <td>First month</td>
@@ -78,7 +70,6 @@
     <td>(This will help us fix it for future hires)</td>
   </tr>
   <tr>
-    <td scope="row">7</td>
     <td>&#9744;</td>
     <td>Add an entry to the Staff Skills doc</td>
     <td>Second Week</td>
@@ -87,7 +78,6 @@
     <td><a href="https://docs.google.com/spreadsheets/u/1/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0">Staff Skills</a></td>
   </tr>
   <tr>
-    <td scope="row">8</td>
     <td>&#9744;</td>
     <td>Get yourself added to the GitHub organization</td>
     <td>First Week</td>
@@ -96,7 +86,6 @@
     <td>Instructions are <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/github-and-18f-site.md#1-setting-up-your-account">here</a></td>
   </tr>
   <tr>
-    <td scope="row">9</td>
     <td>&#9744;</td>
     <td>Read the Engineering Team's Best Practices</td>
     <td>First Week</td>
@@ -105,7 +94,6 @@
     <td><a href="https://pages.18f.gov/development-guide">Developer Guide</a></td>
   </tr>
   <tr>
-    <td scope="row">10</td>
     <td>&#9744;</td>
     <td>Learn about guilds and working groups</td>
     <td>Second Week</td>
@@ -114,7 +102,6 @@
     <td>Guide is <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md">here</a></td>
   </tr>
   <tr>
-    <td scope="row">11</td>
     <td>&#9744;</td>
     <td>Learn how time tracking works</td>
     <td>Second Week</td>
@@ -123,7 +110,6 @@
     <td>Guide is <a href="https://github.com/18F/handbook/blob/e3544e240f37f5df02906a5a4f73bd9e9a460015/articles/4-how-we-work/tools/tock.md">here</a></td>
   </tr>
    <tr>
-    <td scope="row">12</td>
     <td>&#9744;</td>
     <td>Attend a project intake meeting and learn about the intake process</td>
     <td>First month</td>
@@ -132,7 +118,6 @@
     <td>Guide is <a href="https://github.com/18F/handbook/blob/4ea880b6bf5cf56067fa3d3cf3ca45655ed4a87b/articles/5-training-and-professional-development/seminars/project-intake-101.md">here</a></td>
   </tr>
     <tr>
-    <td scope="row">13</td>
     <td>&#9744;</td>
     <td>Learn about Open Opportunities and pick a starter project</td>
     <td>First month</td>
@@ -141,7 +126,6 @@
     <td>Your facilitator will help you with this but you can <a href="https://openopps.digitalgov.gov/tasks?search=18F">browse the projects.</a></td>
   </tr>
   <tr>
-    <td scope="row">14</td>
     <td>&#9744;</td>
     <td>Get a walkthrough of <a href="https://cloud.gov">cloud.gov</a></td>
     <td>First month</td>
@@ -150,7 +134,6 @@
     <td><a href="https://cloud.gov">cloud.gov</a> / #cloud-gov</td>
   </tr>
   <tr>
-    <td scope="row">15</td>
     <td>&#9744;</td>
     <td>Deploy to Cloud Foundry</td>
     <td>First month</td>
@@ -159,7 +142,6 @@
     <td>Tutorial <a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">here</a></td>
   </tr>
   <tr>
-    <td scope="row">16</td>
     <td>&#9744;</td>
     <td>Complete performance plan meeting</td>
     <td>First month</td>
