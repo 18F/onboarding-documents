@@ -1,6 +1,4 @@
-
-### Dev / Engineering New Employee Checklist
-========================================
+# Dev / Engineering New Employee Checklist
 
 <table>
   <thead>
@@ -10,7 +8,7 @@
       <th scope="col">When</th>
       <th scope="col">Who Has Information / Completes Task</th>
       <th scope="col">Who Receives Information </th>
-      <th scope="col">Where the information lives / notes</th>
+      <th scope="col">Notes</th>
     </tr>
   </thead>
   <tr>
@@ -55,11 +53,11 @@
   </tr>
    <tr>
     <td>&#9744;</td>
-    <td>Read abou the Engineering Team and learn about how the team works</td>
+    <td><a href="https://docs.google.com/document/d/1jtp6ZjWKZPvu1VhrQc8r7z6U3InxbtL5_baIECtPLkQ/edit#heading=h.525qbp2k2unh">Read about the Engineering Team</a></td>
     <td>First week</td>
     <td>New Hire</td>
     <td></td>
-    <td><a href="https://docs.google.com/document/d/1jtp6ZjWKZPvu1VhrQc8r7z6U3InxbtL5_baIECtPLkQ/edit#heading=h.525qbp2k2unh">Welcome to the Engineering Team!</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
@@ -71,51 +69,51 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Add an entry to the Staff Skills doc</td>
+    <td>Add an entry to the <a href="https://docs.google.com/spreadsheets/u/1/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0">Staff Skills</a> doc</td>
     <td>Second Week</td>
     <td>New Hire</td>
     <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/u/1/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0">Staff Skills</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Get yourself added to the GitHub organization</td>
+    <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/github-and-18f-site.md#1-setting-up-your-account">Get yourself added to the GitHub organization</a></td>
     <td>First Week</td>
     <td>New Hire</td>
     <td></td>
-    <td>Instructions are <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/github-and-18f-site.md#1-setting-up-your-account">here</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Read the Engineering Team's Best Practices</td>
+    <td>Read the <a href="https://pages.18f.gov/development-guide">Developer Guide</a></td>
     <td>First Week</td>
     <td>New Hire</td>
     <td></td>
-    <td><a href="https://pages.18f.gov/development-guide">Developer Guide</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Learn about guilds and working groups</td>
+    <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md">Learn about guilds and working groups</a></td>
     <td>Second Week</td>
     <td>New Hire</td>
     <td></td>
-    <td>Guide is <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md">here</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Learn how time tracking works</td>
+    <td><a href="https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/tools/tock.md">Learn how time tracking works</a></td>
     <td>Second Week</td>
     <td>New Hire</td>
     <td></td>
-    <td>Guide is <a href="https://github.com/18F/handbook/blob/e3544e240f37f5df02906a5a4f73bd9e9a460015/articles/4-how-we-work/tools/tock.md">here</a></td>
+    <td></td>
   </tr>
    <tr>
     <td>&#9744;</td>
-    <td>Attend a project intake meeting and learn about the intake process</td>
+    <td>Attend a project intake meeting and <a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/project-intake-101.md">learn about the intake process</a></td>
     <td>First month</td>
     <td>New Hire</td>
     <td></td>
-    <td>Guide is <a href="https://github.com/18F/handbook/blob/4ea880b6bf5cf56067fa3d3cf3ca45655ed4a87b/articles/5-training-and-professional-development/seminars/project-intake-101.md">here</a></td>
+    <td></td>
   </tr>
     <tr>
     <td>&#9744;</td>
@@ -135,11 +133,11 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Deploy to Cloud Foundry</td>
+    <td><a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">Deploy to Cloud Foundry</a></td>
     <td>First month</td>
     <td>New Hire</td>
     <td></td>
-    <td>Tutorial <a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">here</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
