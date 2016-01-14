@@ -54,6 +54,14 @@
   </tr>
   <tr>
     <td>&#9744;</td>
+    <td>Run the <a href="https://github.com/18F/laptop">laptop script</a></td>
+    <td>First Week</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>This is not obligatory, if you prefer to manage your machine setup a different way.</td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
     <td>Introduce them to their Facilitator team</td>
     <td>First Week</td>
     <td>Facilitator</td>
