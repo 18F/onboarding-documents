@@ -50,7 +50,7 @@
     <td>First or Second Day</td>
     <td>Facilitator</td>
     <td>New Hire</td>
-    <td></td>
+    <td>See the <a href="https://docs.google.com/document/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit#heading=h.oqzmgpl64nct">topics for 1:1 meetings</a> if you need inspiration.</td>
   </tr>
   <tr>
     <td>&#9744;</td>
@@ -207,7 +207,7 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Send link to the engineering team talk signup and invite them to put a talk down</td>
+    <td>Send link to the <a href="https://github.com/18F/tech-talks">engineering team talk signup</a> and invite them to put a talk down</td>
     <td>First Month</td>
     <td>Facilitator</td>
     <td>New Hire</td>
@@ -236,6 +236,6 @@
     <td>Second Month</td>
     <td>Director</td>
     <td>New Hire</td>
-    <td></td>
+    <td>See the <a href="https://docs.google.com/spreadsheets/d/1DEN8_6WihdRMBzk0_b0GLdsB5pQZ5iBSxhQ7OK20ayw/edit#gid=750763825">interview pairings</a> sheet.</td>
   </tr>
 </table>
