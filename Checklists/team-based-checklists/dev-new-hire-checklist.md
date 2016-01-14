@@ -37,14 +37,6 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Take AWS onboarding</td>
-    <td>First week</td>
-    <td>New Hire</td>
-    <td></td>
-    <td>You will be given an account. Won't apply to everyone – check with your director or ask in #devops. https://18f.gsa.gov/hub/aws-access/</td>
-  </tr>
-   <tr>
-    <td>&#9744;</td>
     <td>Think about 3 things you would like to learn over the next three months.</td>
     <td>Second week</td>
     <td>New Hire</td>
@@ -221,14 +213,6 @@
    <tr>
     <td>&#9744;</td>
     <td>Make sure the project mentor helps them deploy a change in the first two days of being on that project  </td>
-    <td>First month</td>
-    <td>Engineering Facilitator</td>
-    <td> New Hire</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>&#9744;</td>
-    <td>File an issue in the DevOps repo for AWS onboarding</td>
     <td>First month</td>
     <td>Engineering Facilitator</td>
     <td> New Hire</td>
