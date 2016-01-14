@@ -34,7 +34,7 @@
     <td>First Day</td>
     <td>Facilitator</td>
     <td>New Hire</td>
-    <td>Go through and invite them to any relevant upcoming/recurring events (e.g. the <a href="https://github.com/18F/tech-talks">tech talks</a>).</td>
+    <td>See how to <a href="https://support.google.com/calendar/answer/37082?hl=en">share an existing calendar</a>.</td>
   </tr>
   <tr>
     <td>&#9744;</td>
