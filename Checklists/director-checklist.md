@@ -83,59 +83,7 @@ Director --> New Hire
 
 ## Engineering Team Director
 
-See also: the [Engineering new hire checklist](team-based-checklists/dev-new-hire-checklist.md).
-
-<table>
-  <thead>
-    <tr>
-      <th scope="col">&#10003;</th>
-      <th scope="col">Task</th>
-      <th scope="col">When (From Selection)</th>
-      <th scope="col">Who Has Information / Completes Task</th>
-      <th scope="col">Who Receives Information</th>
-      <th scope="col">Where Information Lives / Notes</th>
-    </tr>
-  </thead>
-  <tr>
-    <td>&#9744;</td>
-    <td>Assign them and introduce them to their engineering team facilitator and Team via Slack</td>
-    <td>First Week</td>
-    <td>Supervisor</td>
-    <td>Engineering Team </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Send them the <a href="https://docs.google.com/spreadsheets/u/1/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0">Staff Skills</a> spreadsheet and ask them to fill it out </td>
-    <td>Second week</td>
-    <td> Supervisor</td>
-    <td> Talent POC</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Have an introductory check in with them</td>
-    <td>First Week</td>
-    <td> Supervisor</td>
-    <td> New Hire</td>
-    <td></td>
-  </tr>
-   <tr>
-    <td>&#9744;</td>
-    <td>Get their feedback on the hiring process</td>
-    <td>First Month</td>
-    <td> Supervisor</td>
-    <td> New Hire</td>
-    <td></td>
-  <tr>
-    <td>&#9744;</td>
-    <td>If candidate is comfortable, set them up doing interviews with a veteran interviewer </td>
-    <td>First month</td>
-    <td> Supervisor</td>
-    <td> New Hire</td>
-    <td></td>
-  </tr>
-</table>
+See the [Engineering new hire checklist](team-based-checklists/dev-new-hire-checklist.md).
 
 ## Product Team Director
 
