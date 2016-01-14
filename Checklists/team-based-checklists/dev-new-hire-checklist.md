@@ -13,6 +13,55 @@
   </thead>
   <tr>
     <td>&#9744;</td>
+    <td>Assign them to a Facilitator team</td>
+    <td>Before First Day</td>
+    <td>Director</td>
+    <td>Facilitator</td>
+    <td></td>
+  </tr>
+  <tr>
+    <!-- not dev-specific -->
+    <td>&#9744;</td>
+    <td>Keep a journal about your biggest hurdles and sources of confusion during hiring/onboarding</td>
+    <td>First Day</td>
+    <td>New Hire</td>
+    <td>Facilitator</td>
+    <td>After a couple weeks, put a link in #wg-onboarding as well. This will help us fix it for future hires.</td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td>Add them to the Engineering Calendar</td>
+    <td>First Day</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td><a href="https://groups.google.com/a/gsa.gov/forum/#!managemembers/18fdev/add">Add them to the 18F Developers email list</a></td>
+    <td>First Day</td>
+    <td>Facilitator</td>
+    <td></td>
+    <td>Look through the <a href="https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev">recent emails</a> to see if there are any updates they need.</td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td>Have an introductory check in with them</td>
+    <td>First or Second Day</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td>Introduce them to their Facilitator team</td>
+    <td>First Week</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
     <td><a href="https://docs.google.com/document/d/1jtp6ZjWKZPvu1VhrQc8r7z6U3InxbtL5_baIECtPLkQ/edit#heading=h.525qbp2k2unh">Read about the Engineering Team</a></td>
     <td>First Week</td>
     <td>New Hire</td>
@@ -53,6 +102,56 @@
   </tr>
   <tr>
     <td>&#9744;</td>
+    <td>Intro them to the #dev team via Slack</td>
+    <td>First Week</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td>Intro them to their Facilitator group via Slack</td>
+    <td>First Week</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td>Invite them to the Facilitator group meeting</td>
+    <td>First Week</td>
+    <td>Facilitator</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
+    <td>Have an introductory check in with them</td>
+    <td>First Week</td>
+    <td>Director</td>
+    <td>New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
+    <!-- not dev-specific -->
+    <td>&#9744;</td>
+    <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md">Learn about guilds and working groups</a></td>
+    <td>Second Week</td>
+    <td>New Hire</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <!-- not dev-specific -->
+    <td>&#9744;</td>
+    <td><a href="https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/tools/tock.md">Learn how time tracking works</a></td>
+    <td>Second Week</td>
+    <td>New Hire</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
     <td>If you are in need of a short-term project, look at <a href="https://openopps.digitalgov.gov">Open Opportunities</a>, specifically <a href="https://openopps.digitalgov.gov/tasks?search=18F">18F's open tasks</a></td>
     <td>First Month</td>
     <td>New Hire</td>
@@ -82,54 +181,6 @@
     <td>Director and Facilitator</td>
     <td>New Hire</td>
     <td><a href="https://docs.google.com/document/d/1dRsoHGPv12IRjlWHl1uW63pMEad15GcmhP2m7jyU27M/edit">Performance Profile</a></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Have an introductory check in with them</td>
-    <td>First or Second Day</td>
-    <td>Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-  <td>&#9744;</td>
-    <td>Add them to the Engineering Calendar</td>
-    <td>First Day</td>
-    <td>Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td><a href="https://groups.google.com/a/gsa.gov/forum/#!managemembers/18fdev/add">Add them to the 18F Developers email list</a></td>
-    <td>First Day</td>
-    <td>Facilitator</td>
-    <td></td>
-    <td>Look through the <a href="https://groups.google.com/a/gsa.gov/forum/#!forum/18fdev">recent emails</a> to see if there are any updates they need.</td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Intro them to the #dev team via Slack</td>
-    <td>First Week</td>
-    <td>Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Intro them to their Facilitator group via Slack</td>
-    <td>First Week</td>
-    <td>Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Invite them to the Facilitator group meeting</td>
-    <td>First Week</td>
-    <td>Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
   </tr>
   <tr>
     <td>&#9744;</td>
@@ -164,75 +215,27 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td>Assign them to a Facilitator team</td>
-    <td>Before First Week</td>
-    <td>Director</td>
-    <td>Facilitator</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Introduce them to their Facilitator team</td>
-    <td>First Day</td>
-    <td>Facilitator</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td>Have an introductory check in with them</td>
-    <td>First Week</td>
-    <td>Director</td>
-    <td>New Hire</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
     <td>Get their feedback on the hiring process</td>
     <td>First Month</td>
     <td>Director</td>
     <td>New Hire</td>
     <td></td>
+  </tr>
+  <tr>
+    <!-- not dev-specific -->
+    <td>&#9744;</td>
+    <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/classes/project-intake-101.md">Learn about the intake process</a> and attend a #project-intake meeting</td>
+    <td>First Month</td>
+    <td>New Hire</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>&#9744;</td>
     <td>If candidate is comfortable, set them up doing interviews with a veteran interviewer</td>
     <td>Second Month</td>
     <td>Director</td>
     <td>New Hire</td>
-    <td></td>
-  </tr>
-
-  <!-- these aren't dev-specific -->
-  <tr>
-    <td>&#9744;</td>
-    <td>Keep a journal about your biggest hurdles and sources of confusion during hiring/onboarding</td>
-    <td>First Day</td>
-    <td>New Hire</td>
-    <td>Facilitator</td>
-    <td>Put a link in #wg-onboarding as well. This will help us fix it for future hires.</td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/seminars/working-groups-and-guilds-101.md">Learn about guilds and working groups</a></td>
-    <td>Second Week</td>
-    <td>New Hire</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td><a href="https://github.com/18F/handbook/blob/staging/articles/4-how-we-work/tools/tock.md">Learn how time tracking works</a></td>
-    <td>Second Week</td>
-    <td>New Hire</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&#9744;</td>
-    <td><a href="https://github.com/18F/handbook/blob/staging/articles/5-training-and-professional-development/classes/project-intake-101.md">Learn about the intake process</a> and attend a #project-intake meeting</td>
-    <td>First Month</td>
-    <td>New Hire</td>
-    <td></td>
     <td></td>
   </tr>
 </table>
