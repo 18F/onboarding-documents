@@ -20,6 +20,14 @@
     <td></td>
   </tr>
   <tr>
+    <td>&#9744;</td>
+    <td>Assign them a buddy</td>
+    <td>Before First Day</td>
+    <td>Facilitator</td>
+    <td>Buddy and wg-onboarding</td>
+    <td></td>
+  </tr>
+  <tr>
     <!-- not dev-specific -->
     <td>&#9744;</td>
     <td>Keep a journal about your biggest hurdles and sources of confusion during hiring/onboarding</td>
