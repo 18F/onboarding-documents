@@ -43,10 +43,28 @@ Director/Manager/Supervisor New Employee Checklist
     <td> New Hire</td>
     <td>Varies by team, may require setting meeting up</a></td>
   </tr>
-   <tr>
+  <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Meet with Team Talent to review hiring process for your team</td>
+    <td>First month</td>
+    <td></td>
+    <td> New Hire</td>
+    <td></td>
+  </tr>
+  <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Change the "main appraiser" on the CHRIS performance plans for your direct reports to yourself</td>
+    <td>Second month</td>
+    <td></td>
+    <td> New Hire</td>
+    <td>After you have a CHRIS account, which takes about 4 weeks.</td>
+  </tr>
+  <tr>
+    <td scope="row">4</td> 
+    <td>&#9744;</td>
+    <td>Read the performance appraisals for your direct reports on CHRIS</td>
     <td>Second month</td>
     <td></td>
     <td> New Hire</td>
