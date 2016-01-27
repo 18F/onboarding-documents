@@ -539,4 +539,10 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td>Learn about 18F Offsites</td>
     <td>Ask in Slack when the next offsite is: "When is the next offsite?" (Slackbot should respond.) And if you want to make a message for Slackbot to respond, follow the instructions <a href="https://18f.slack.com/customize/slackbot">here</a></td>
   </tr>
+  <tr>
+    <td scope="row">13</td> 
+    <td>&#9744;</td>
+    <td>Ask to be added to 18F Trello board</td>
+    <td>Ask in #admins-trello</td>
+  </tr>
  </table>
