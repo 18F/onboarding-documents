@@ -363,7 +363,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
-    <td>Double check to make sure you have access to 18F Calendars.</td>
+    <td>Double check to make sure you have access to 18F Calendars and double check your inbox to make sure you've received a note from 18f-team@gsa.gov.</td>
     <td><a href="https://handbook.18f.gov/google-calendar">Instructions</a></td>
   </tr>
   <tr>
