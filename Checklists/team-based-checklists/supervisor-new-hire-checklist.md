@@ -75,7 +75,7 @@ Director/Manager/Supervisor New Employee Checklist
     <td>&#9744;</td>
     <td>Request to be added to relavent private tools</td>
     <td>First week</td>
-    <td></td>
+    <td> Manager and Peers</td>
     <td> New Hire</td>
     <td>Different roles will have access to different private slack channels, google groups, trello boards, etc. Prompt your boss and peers for what those are and access.</td>
   </tr>
