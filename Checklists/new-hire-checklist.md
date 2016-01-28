@@ -454,6 +454,12 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td>Write your bio and submit a picture for the 18F website</td>
     <td><a href="https://handbook.18f.gov/github-and-18f-site/#your-bio-and-photo">Instructions</a></td>
   </tr>
+  <tr>
+    <td scope="row">9</td>
+    <td>&#9744</td>
+    <td>Add yourself to the Team API</td>
+    <td><a href="https://github.com/18F/team-api.18f.gov/blob/master/README.md#new-18f-team-members">Instructions</a></td>
+  </tr>
  </table>
 
 ### FIRST MONTH
