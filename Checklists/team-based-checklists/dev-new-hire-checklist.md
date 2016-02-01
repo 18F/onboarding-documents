@@ -201,7 +201,7 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td><a href="https://docs.google.com/document/d/1N0VQf5y0ZeO-9BS0Xk1W2p-YetF7HUqzSB4D-Kj7MXw/edit">Deploy to Cloud Foundry</a></td>
+    <td><a href="https://docs.cloud.gov/getting-started/your-first-deploy/">Deploy to Cloud Foundry</a></td>
     <td>First Month</td>
     <td>New Hire</td>
     <td></td>
