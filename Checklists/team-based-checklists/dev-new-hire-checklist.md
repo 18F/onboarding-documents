@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>&#9744;</td>
-    <td><a href="https://docs.google.com/document/d/1jtp6ZjWKZPvu1VhrQc8r7z6U3InxbtL5_baIECtPLkQ/edit#heading=h.525qbp2k2unh">Read about the Engineering Team</a></td>
+    <td><a href="https://handbook.18f.gov/engineering">Read about the Engineering Team</a></td>
     <td>First Week</td>
     <td>New Hire</td>
     <td></td>
