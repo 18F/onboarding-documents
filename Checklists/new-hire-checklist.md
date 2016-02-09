@@ -358,7 +358,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Make sure your Macbook is secure</td>
-    <td><a href="handbook.18f.gov/equipment/#laptop">Instructions</a></td>
+    <td><a href="https://handbook.18f.gov/equipment/#laptop">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
