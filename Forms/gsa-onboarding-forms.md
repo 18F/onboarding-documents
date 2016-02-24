@@ -43,10 +43,7 @@ need to download and print a form individually, click the standard form
 Part 1: Mandatory forms
 -----------------------
 
-The following forms in GSA’s multipart PDF are mandatory. You can fill
-these out electronically, or complete them on paper, sign, and scan
-them. When you finish, email the forms to
-[gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov).
+The following forms in GSA’s multipart PDF are mandatory. You can fill these out electronically, or complete them on paper, sign, and scan them. When you finish, email the forms to [gsaonboarding@gsa.gov](mailto:gsaonboarding@gsa.gov).
 
 ### GSA Employee Benefits and Information
 
@@ -71,7 +68,7 @@ You can find details about benefits on the Office of Personnel Management (OPM) 
 
 This form is pretty self-explanatory, but you’ll want to fill it out *after* you’ve chosen healthcare and retirement plans (see [SF-2809 - Federal Employee Health Benefits Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#sf-2809---health-benefits-election-form) and [TSP-1 - Thrift Savings Plan Election Form](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#tsp-1---thrift-savings-plan-election-form)).
 
-You can ignore the note about providing a college transcript. *Note: You 
+You can ignore the note about providing a college transcript.
 
 ### [SF-144](http://www.gsa.gov/portal/forms/download/115890) - Statement of Prior Federal Service
 
@@ -156,9 +153,11 @@ If you’re in the military reserve, the government wants to know.
 
 Let HR know who to contact in the event of an emergency. (This form should be included in your onboarding packet.)
       
-### [SF-2809](http://www.gsa.gov/portal/forms/download/116090) - Health Benefits Election Form**
+### [SF-2809](http://www.gsa.gov/portal/forms/download/116090) - Health Benefits Election Form
 
-You have 60 days to complete this form after your start date, but if you need coverage, it’s best to turn it in ahead of time. You need to make a few decisions before completing this:
+You have 60 days to complete this form after your start date, but if you need coverage, it’s best to turn it in ahead of time. **The soonest your health insurance can start is two weeks after your start date.**
+
+You need to make a few decisions before completing this:
 
 - Do you need coverage?
 
@@ -217,5 +216,4 @@ You’ll need the following info:
 -   Bureau: OCSIT/18F
 -   Division:Consulting/Delivery/Design/Infrastructure/Outreach/Team Operations/Team Talent
 
-Some of these forms also ask for account numbers, which are easier to
-get after you start.
+Some of these forms also ask for account numbers, which are easier to get after you start.
