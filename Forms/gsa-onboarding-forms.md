@@ -1,10 +1,7 @@
 Guide: GSA Onboarding Paperwork
 ===============================
 
-Before you start at 18F, there are quite a few forms to fill out. Deep
-breath! You’ll get through this. The first big round of forms comes
-after you receive your tentative offer, but before you’re asked to fill
-out an [e-QIP](https://www.opm.gov/investigations/e-qip-application/), or detailed background check.
+Before you start at 18F, there are quite a few forms to fill out. Deep breath! You’ll get through this. The first big round of forms comes after you receive your tentative offer, but before you’re asked to fill out an [e-QIP](https://www.opm.gov/investigations/e-qip-application/), or detailed background check.
 
 [GSA Employee Benefits and Information](https://github.com/18F/onboarding-documents/blob/master/Forms/gsa-onboarding-forms.md#gsa-employee-benefits-and-information)
 
@@ -51,17 +48,12 @@ After you start, you’ll have 60 days to elect your benefits (e.g., health, den
         
 You can find details about benefits on the Office of Personnel Management (OPM) website:
 
-[Health insurance](https://www.opm.gov/healthcare-insurance/healthcare/)
-
-[Dental and vision](https://www.opm.gov/healthcare-insurance/dental-vision/)
-
-[Life insurance](https://www.opm.gov/healthcare-insurance/life-insurance/)
-
-[Long term care](https://www.opm.gov/healthcare-insurance/long-term-care/)
-
-[Flexible spending accounts (FSA)](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) - must enroll before Oct 1
-
-[Thrift savings plan](https://www.tsp.gov/index.shtml)
+* [Health insurance](https://www.opm.gov/healthcare-insurance/healthcare/)
+* [Dental and vision](https://www.opm.gov/healthcare-insurance/dental-vision/)
+* [Life insurance](https://www.opm.gov/healthcare-insurance/life-insurance/)
+* [Long term care](https://www.opm.gov/healthcare-insurance/long-term-care/)
+* [Flexible spending accounts (FSA)](https://www.opm.gov/healthcare-insurance/flexible-spending-accounts/) - must enroll before Oct 1
+* [Thrift savings plan](https://www.tsp.gov/index.shtml)
 
 
 ### GSA Onboarding Document
@@ -96,28 +88,21 @@ This form allows you to get your biweekly paycheck with direct deposit, or elect
 
 In the meantime, complete these fields in section 1:
 
-A: Name and address
-
-C: Claim or payroll ID number (Social Security number)
-
-D: Type of account
-
-E: Bank account number
-
-F: Type of payment (Fed. Salary / Mil. Civilian Pay)
-
-Payee or joint payee certification (sign and date)
+- A: Name and address
+- C: Claim or payroll ID number (Social Security number)
+- D: Type of account
+- E: Bank account number
+- F: Type of payment (Fed. Salary / Mil. Civilian Pay)
+- Payee or joint payee certification (sign and date)
 
 You also need to complete these fields in section three. Ignore the note about asking your financial institution to fill them in:
 
-Name and address of financial institution
-
-Routing number
+- Name and address of financial institution
+- Routing number
     
 ### [W-4](http://www.irs.gov/Individuals/International-Taxpayers/Withholding-Exemptions---Personal-Exemptions-Form-W-4) - Federal Income Tax Withholding
 
 This form asks you to estimate your taxes and choose your tax withholding allowances. The worksheet included in the PDF guides you through the process, but it’s worth talking to your accountant or tax specialist if you have any questions.
-    
     
 ### State Tax Withholding Forms
 
@@ -126,21 +111,13 @@ Depending on where you live, you may need to fill out a state tax withholding fo
 These states are exempt:
 
 - Alaska
-
 - Florida
-
 - Nevada
-
 - New Hampshire
-
 - South Dakota
-
 - Tennessee
-
 - Texas
-
 - Washington
-
 - Wyoming
 
 If you work in DC but live elsewhere, you’ll need to complete a [D-4A - Certificate of Non-residence in DC](http://otr.cfo.dc.gov/node/970782).
@@ -160,11 +137,8 @@ You have 60 days to complete this form after your start date, but if you need co
 You need to make a few decisions before completing this:
 
 - Do you need coverage?
-
 - Do you have coverage now? Are you planning to keep it?
-
 - Who else in your family needs coverage?
-
 - Which plan do you want to enroll in?
 
 If you do need coverage, start by [comparing the plans](https://www.opm.gov/healthcare-insurance/healthcare/plan-information/compare-plans/) in your area. Include Nationwide plans in your search. We are non-U.S. Postal Service Employees, and we’re paid on a biweekly basis.
@@ -189,13 +163,9 @@ distribute your benefits [in this
 order](https://www.tsp.gov/planparticipation/beneficiaries/beneficiaries.shtml):
 
 1.  To your spouse;
-
 1.  If none, to your child or children equally, and to the descendants of deceased children;
-
 1.  If none, to your parents equally or your surviving parent;
-
 1.  If none, to your appointed executor or administrator of your estate;
-
 1.  If none, to your next of kin who is entitled to your estate under the laws of the state in which you resided at the time of your death.
 
 If you want to distribute the funds differently, complete these forms at
@@ -203,17 +173,14 @@ your convenience:
 
 -   [SF-1152](http://www.gsa.gov/portal/forms/download/115638) -
     Designation of Beneficiary (Unpaid Compensation)
-
 -   [SF-2823](http://www.gsa.gov/portal/forms/download/116134) - FEGLI Designation of Beneficiary
-
 -   [SF-3102](http://www.gsa.gov/portal/forms/download/116166) - FERS Designation of Beneficiary
-
 -   [TSP 3](https://www.tsp.gov/PDF/formspubs/tsp-3.pdf) - Thrift Savings Plan Beneficiary
 
 You’ll need the following info:
 
 -   Agency: GSA
 -   Bureau: OCSIT/18F
--   Division:Consulting/Delivery/Design/Infrastructure/Outreach/Team Operations/Team Talent
+-   Division: Consulting/Delivery/Design/Infrastructure/Outreach/Team Operations/Team Talent
 
 Some of these forms also ask for account numbers, which are easier to get after you start.
