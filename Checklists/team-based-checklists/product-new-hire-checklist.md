@@ -29,7 +29,7 @@ Product New Employee Checklist
   <tr>
     <td scope="row">3</td> 
     <td>&#9744;</td>
-    <td>Set up a virtual coffee with Josh. </td>
+    <td>Set up a virtual coffee with Rebecca. </td>
     <td>First week</td>
     <td>You won’t know what to talk about, but that’s okay. It’s reassuring to know you’re not expected to know what’s going on yet.</td>
     </tr>
@@ -50,7 +50,7 @@ Product New Employee Checklist
     <tr>
     <td scope="row">6</td> 
     <td>&#9744;</td>
-    <td>Set up a second coffee with Josh. (You’ll be ready to start thinking about looking for a product now.)</td>
+    <td>Set up a second coffee with Rebecca. (You’ll be ready to start thinking about looking for a product now.)</td>
     <td>Week 3</td>
     <td></td>
   </tr>
