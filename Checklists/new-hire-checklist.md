@@ -483,7 +483,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">2</td> 
     <td>&#9744;</td>
     <td>Schedule a virtual tea with two coworkers</td>
-    <td>You can use one of the video tools you've learned about: <a href="https://handbook.18f.gov/acano">Acano</a> or <a href="https://handbook.18f.gov/google-hangouts">Google Hangouts</a>or <a href="https://handbook.18f.gov/appearin">Appear.in</a></td>
+    <td>You can use one of the video tools you've learned about: <a href="https://handbook.18f.gov/acano">Acano</a> or <a href="https://handbook.18f.gov/google-hangouts">Google Hangouts</a> or <a href="https://handbook.18f.gov/appearin">Appear.in</a></td>
   </tr>
   <tr>
     <td scope="row">3</td> 
@@ -507,7 +507,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Sign into Employee Express</td>
-    <td>This is available after your first paycheck. <a href="handbook.18f.gov/gsa-tools-equipment-and-transit/#employee-express">Instructions.</a></td>
+    <td>This is available after your first paycheck. <a href="https://handbook.18f.gov/gsa-tools-equipment-and-transit/#employee-express">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">7</td> 
