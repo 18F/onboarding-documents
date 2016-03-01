@@ -458,7 +458,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">9</td>
     <td>&#9744</td>
     <td>Add yourself to the Team API</td>
-    <td><a href="https://github.com/18F/team-api.18f.gov/blob/master/README.md#new-18f-team-members">Instructions</a></td>
+    <td><a href="https://github.com/18F/team-api.18f.gov#adding-18f-team-members">Instructions</a></td>
   </tr>
  </table>
 
