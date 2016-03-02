@@ -477,7 +477,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">1</td> 
     <td>&#9744;</td>
     <td>Fill out OGE 450</td>
-    <td>Team dependent, check with your director. <a href="https://handbook.18f.gov/hatch-act-foia-ethics-code-of-conduct/#new-here-youll-need-to-fill-out-these-forms">Instructions.</a></td>
+    <td>Team dependent, check with your director. <a href="https://handbook.18f.gov/hatch-act-foia-ethics-code-of-conduct/#documentation">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">2</td> 
@@ -525,7 +525,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">9</td> 
     <td>&#9744;</td>
     <td>Take travel training so that you can travel.</td>
-    <td><a href="https://handbook.18f.gov/travel-101">Instructions.</a></td>
+    <td><a href="https://handbook.18f.gov/travel-101">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">10</td> 
@@ -543,7 +543,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">12</td> 
     <td>&#9744;</td>
     <td>Learn about 18F Offsites</td>
-    <td>Ask in Slack when the next offsite is: "When is the next offsite?" (Slackbot should respond.) And if you want to make a message for Slackbot to respond, follow the instructions <a href="https://18f.slack.com/customize/slackbot">here</a></td>
+    <td>Ask in Slack when the next offsite is: "When is the next 18F-irl?" (Slackbot should respond.) And if you want to make a message for Slackbot to respond, follow the <a href="https://18f.slack.com/customize/slackbot">instructions</a>.</td>
   </tr>
   <tr>
     <td scope="row">13</td> 
