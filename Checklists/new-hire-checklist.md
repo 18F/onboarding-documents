@@ -428,7 +428,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
     <td scope="row">4</td> 
     <td>&#9744;</td>
     <td>Set up VPN.</td>
-    <td><a href="https://handbook.18f.gov/networks#virtual-networks">Instructions</a></td>
+    <td><a href="https://handbook.18f.gov/networks">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">5</td> 
