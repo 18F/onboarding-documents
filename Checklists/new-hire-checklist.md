@@ -60,26 +60,25 @@ As part of the new employee onboarding process, we created this checklist to ass
 
 18F has a dedicated benefits specialist within GSA who can assist you with questions regarding benefits-related questions. 
 
-**Marty Sanchez-Lowery**
+### Marty Sanchez-Lowery
 
-Email:    martha.sanchez-lowery@gsa.gov
+Contact for medical insurance, life insurance, and retirement account questions and enrollment.
 
-Work:  202-969-7237  Cell:    703-965-9274
+Email: martha.sanchez-lowery@gsa.gov  
+Work: 202-969-7237  
+Cell: 703-965-9274
 
-*Contact for medical insurance, life insurance, and retirement account questions and enrollment.*
+#### Leila Knight
 
-**Leila Knight**
+Contact for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).
 
-Email:    leila.knight@gsa.gov
-
-Work:  202-969-7079  Cell:    202-805-4922
-
-*Contact for leave policies and questions (including annual, sick, advance leave requests, leave without pay requests, donating leave, parental, and Family Medical Leave Act).*
-
+Email: leila.knight@gsa.gov  
+Work: 202-969-7079  
+Cell: 202-805-4922
 
 ### How to use this checklist
 
-This document serves as a list of tasks for you to complete with corresponding timelines. Some of the items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how 18F works. 
+This document serves as a list of tasks for you to complete with corresponding timelines. Some of the items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how 18F works. After your first day, you can start using our internal checklist tool, [checklistomania](https://checklistomania.apps.cloud.gov/).
 
 ### Before your first day
 
