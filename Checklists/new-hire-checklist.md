@@ -53,11 +53,11 @@ This document serves as a list of tasks for you to complete with corresponding t
   </tr>
 </table>
 
-## Human resources (HR)
+### Human resources (HR)
 
 18F has a dedicated benefits specialist within GSA who can assist you with questions regarding benefits-related questions. 
 
-### Marty Sanchez-Lowery
+#### Marty Sanchez-Lowery
 
 Contact for medical insurance, life insurance, and retirement account questions and enrollment.
 
