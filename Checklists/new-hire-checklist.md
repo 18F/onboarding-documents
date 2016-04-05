@@ -1,14 +1,12 @@
+# New employee orientation and checklist
 
-NEW EMPLOYEE ORIENTATION AND CHECKLIST
-=========================================
+## Introduction
 
+As part of the new employee onboarding process, we created this checklist to assist you through the days, weeks, and months as a new employee with 18F. After your join 18F, you can start using our internal checklist tool, [checklistomania](https://checklistomania.apps.cloud.gov/).
 
-### Introduction
+This document serves as a list of tasks for you to complete with corresponding timelines. Some of the items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how 18F works. 
 
-As part of the new employee onboarding process, we created this checklist to assist you through the days, weeks, and months as a new employee with 18F. Using the checklist and accessing the websites in this document will assist you throughout the entire onboarding process.
-
-
-### Key websites
+## Links and resources
 
 <table>
   <tr>
@@ -25,7 +23,7 @@ As part of the new employee onboarding process, we created this checklist to ass
   </tr>
 </table>
 
-### Your federal benefits 
+### Federal benefits 
 
 <table>
   <tr>
@@ -55,8 +53,7 @@ As part of the new employee onboarding process, we created this checklist to ass
   </tr>
 </table>
 
-### Human resources (HR)
-
+## Human resources (HR)
 
 18F has a dedicated benefits specialist within GSA who can assist you with questions regarding benefits-related questions. 
 
@@ -76,13 +73,8 @@ Email: leila.knight@gsa.gov
 Work: 202-969-7079  
 Cell: 202-805-4922
 
-### How to use this checklist
 
-This document serves as a list of tasks for you to complete with corresponding timelines. Some of the items listed below are transactional (for example: completing a form) while others involve having conversations or taking classes to learn more about how 18F works. After your first day, you can start using our internal checklist tool, [checklistomania](https://checklistomania.apps.cloud.gov/).
-
-### Before your first day
-
-## Forms to fill out
+## Before your first day
 
 _Note: If you use a Mac, you can use Preview to [add your signature](https://support.apple.com/kb/PH20226?locale=en_US) to PDFs._
 
@@ -221,7 +213,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
   </tr>
  </table>
 
-### Week before your first day
+## Week before your first day
 
 <table>
   <thead> 
@@ -254,10 +246,9 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
 
 
 
+## First day
 
-
-
-### FIRST DAY
+Once you're connected to the GSA network on campus, start using our internal checklist tool, [checklistomania](https://checklistomania.apps.cloud.gov/).
 
  <table>
   <thead> 
@@ -336,7 +327,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
   </tr>
  </table>
 
-### SECOND DAY
+## Second day
 
  <table>
   <thead> 
@@ -392,9 +383,8 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
  </table>
 
 
-### FIRST WEEK
+## First week
 
-*These are tasks that you should complete by the end of your first week. We are providing a checklist as an easy way to make sure you’ve completed everything!*
 
  <table>
   <thead> 
@@ -461,7 +451,7 @@ _Note: If you use a Mac, you can use Preview to [add your signature](https://sup
   </tr>
  </table>
 
-### FIRST MONTH
+## First month
 
  <table>
   <thead> 
