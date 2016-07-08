@@ -429,7 +429,7 @@ Once you're connected to the GSA network on campus, start using our internal che
     <td scope="row">6</td> 
     <td>&#9744;</td>
     <td>Sign up for listservs that interest you.</td>
-    <td><a href="https://handbook.18f.gov/intro-to-product-and-open-source/#listservs-and-communities">Instructions</a></td>
+    <td><a href="https://handbook.18f.gov/general-contacts-and-listservs/#listservs">Instructions</a></td>
   </tr>
   <tr>
     <td scope="row">7</td> 
