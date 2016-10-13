@@ -531,12 +531,6 @@ Once you're connected to the GSA network on campus, start using our internal che
   <tr>
     <td scope="row">12</td> 
     <td>&#9744;</td>
-    <td>Learn about 18F Offsites</td>
-    <td>Ask in Slack when the next offsite is: "When is the next 18F-irl?" (Slackbot should respond.) And if you want to make a message for Slackbot to respond, follow the <a href="https://18f.slack.com/customize/slackbot">instructions</a>.</td>
-  </tr>
-  <tr>
-    <td scope="row">13</td> 
-    <td>&#9744;</td>
     <td>Ask to be added to 18F Trello board</td>
     <td>Ask in #admins-trello</td>
   </tr>
