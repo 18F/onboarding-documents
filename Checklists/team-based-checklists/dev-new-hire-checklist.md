@@ -70,6 +70,14 @@
   </tr>
   <tr>
     <td>&#9744;</td>
+    <td><a href="https://github.com/18F/laptop#want-to-install-just-git-seekret">Install git-seekret</a> to prevent committing secrets to git repos.</td>
+    <td>First Week</td>
+    <td>New Hire</td>
+    <td></td>
+    <td>This is installed by the laptop script. If you have your own machine setup, you must install it manually.</td>
+  </tr>
+  <tr>
+    <td>&#9744;</td>
     <td>Introduce them to their Facilitator team</td>
     <td>First Week</td>
     <td>Facilitator</td>
