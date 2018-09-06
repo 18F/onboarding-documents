@@ -73,7 +73,7 @@ Director/Manager/Supervisor New Employee Checklist
   <tr>
     <td scope="row">4</td> 
     <td>&#9744;</td>
-    <td>Request to be added to relavent private tools</td>
+    <td>Request to be added to relevant private tools</td>
     <td>First week</td>
     <td> Manager and Peers</td>
     <td> New Hire</td>
